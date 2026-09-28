@@ -1,4 +1,135 @@
 {
-  "updated_at": null,
-  "notices": []
+  "updated_at": "2026-09-28 21:13:57 KST",
+  "notices": [
+    {
+      "platform": "NAVER",
+      "id": "f07e81d09530355037f4",
+      "title": "[안내] 성인 관련 제품 광고 집행 기준 변경 안내 new 공통 2026-09-23",
+      "category": "",
+      "date": "2026-09-23",
+      "url": "https://ads.naver.com/notice/34411?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "efa5742ff71bc6948285",
+      "title": "[쇼핑검색광고/ADVoost 쇼핑] 모바일 통합검색 쇼핑 컬렉션 개선 적용 안내 new 공통 2026-09-23",
+      "category": "",
+      "date": "2026-09-23",
+      "url": "https://ads.naver.com/notice/34399?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "bf50ae5b81bab540e7be",
+      "title": "플레이스광고 음식점 업종 검색 결과 개편 안내 new 검색광고 2026-09-23",
+      "category": "",
+      "date": "2026-09-23",
+      "url": "https://ads.naver.com/notice/34117?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "6730300f75d50edfad85",
+      "title": "[신규 노출 영역] 네이버+ > 카페 홈 피드 디스플레이광고/쇼핑검색광고 노출 안내 new 디스플레이 광고 2026-09-23",
+      "category": "",
+      "date": "2026-09-23",
+      "url": "https://ads.naver.com/notice/34386?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "d289a04930452f9232a5",
+      "title": "(업데이트) 파워링크 AI 요약텍스트 기능 제공 및 운영 기준 안내 new 검색광고 2026-09-22",
+      "category": "",
+      "date": "2026-09-22",
+      "url": "https://ads.naver.com/notice/34356?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "a791bf46e32e5c252641",
+      "title": "브랜드검색 PC/모바일 상품 통합 개편 추가 프로모션 안내 검색광고 2026-09-16",
+      "category": "",
+      "date": "2026-09-16",
+      "url": "https://ads.naver.com/notice/34137?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "2ea9661a3cf6e6558977",
+      "title": "[디스플레이 광고] 쇼핑단계분석 개편에 따른 '고객여정 타겟' 명칭 및 데이터 기준 변경 안내 디스플레이 광고 2026-09-16",
+      "category": "",
+      "date": "2026-09-16",
+      "url": "https://ads.naver.com/notice/34253?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "f8c00a404a39ba5f7c11",
+      "title": "네이버 '신제품검색' 202641회차 6개 키워드그룹 추가 안내 검색광고 2026-09-14",
+      "category": "",
+      "date": "2026-09-14",
+      "url": "https://ads.naver.com/notice/34207?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "f33a4e3e994b1eecb4cf",
+      "title": "파워링크 홍보문구 UI 변경 안내 검색광고 2026-09-14",
+      "category": "",
+      "date": "2026-09-14",
+      "url": "https://ads.naver.com/notice/34190?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "4bc481612953e15d2b20",
+      "title": "(일정변경) 파워링크 '홍보영상' 확장소재 신규 등록 중단 안내 검색광고 2026-09-14",
+      "category": "",
+      "date": "2026-09-14",
+      "url": "https://ads.naver.com/notice/33584?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "36f98db89f0887ce69b7",
+      "title": "중요 (수정) 플레이스광고 'ADVoost 플레이스(Beta)' 오픈 안내 검색광고 2026-09-09",
+      "category": "",
+      "date": "2026-09-09",
+      "url": "https://ads.naver.com/notice/34109?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "c3bcd103f8d1898d8dab",
+      "title": "중요 (수정) 네이버 디지털옥외광고 광고비 100% 환급 이벤트 안내 검색광고 2026-08-31",
+      "category": "",
+      "date": "2026-08-31",
+      "url": "https://ads.naver.com/notice/33770?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "508e0458320c9efda005",
+      "title": "중요 네이버 성과형 디스플레이 광고 노출 지면 및 집행 가이드 안내 디스플레이 광고 2024-12-09",
+      "category": "",
+      "date": "2024-12-09",
+      "url": "https://ads.naver.com/notice/18005?searchValue=&page=1",
+      "read": false,
+      "important": false
+    }
+  ]
 }
