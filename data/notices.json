@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-30 09:21:31 KST",
+  "updated_at": "2026-09-30 21:14:42 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "e97e846de04b5aac3db9",
+      "title": "2026년 10월 신용카드 무이자 할부 혜택 new 공통 2026-09-30",
+      "category": "",
+      "date": "2026-09-30",
+      "url": "https://ads.naver.com/notice/34478?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "788f2a548a83da48b4c6",
+      "title": "(수정) [신규 노출 영역] 네이버+ > 카페 홈 피드 디스플레이광고/쇼핑검색광고 노출 안내 new 공통 2026-09-30",
+      "category": "",
+      "date": "2026-09-30",
+      "url": "https://ads.naver.com/notice/34386?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "6cbc631da87f7f9a9fb4",
+      "title": "2026년 9월 세무일자의 세금계산서 발행일 안내 new 공통 2026-09-30",
+      "category": "",
+      "date": "2026-09-30",
+      "url": "https://ads.naver.com/notice/34485?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "f07e81d09530355037f4",
@@ -23,6 +53,16 @@
     },
     {
       "platform": "NAVER",
+      "id": "d55219e3c6e82f145031",
+      "title": "플레이스광고 음식점 업종 검색 결과 개편 안내 검색광고 2026-09-23",
+      "category": "",
+      "date": "2026-09-23",
+      "url": "https://ads.naver.com/notice/34117?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "bf50ae5b81bab540e7be",
       "title": "플레이스광고 음식점 업종 검색 결과 개편 안내 new 검색광고 2026-09-23",
       "category": "",
@@ -38,6 +78,26 @@
       "category": "",
       "date": "2026-09-23",
       "url": "https://ads.naver.com/notice/34386?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "4212a0f801761c15acf8",
+      "title": "[안내] 성인 관련 제품 광고 집행 기준 변경 안내 공통 2026-09-23",
+      "category": "",
+      "date": "2026-09-23",
+      "url": "https://ads.naver.com/notice/34411?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "32f0221bdb3f3b436738",
+      "title": "[쇼핑검색광고/ADVoost 쇼핑] 모바일 통합검색 쇼핑 컬렉션 개선 적용 안내 공통 2026-09-23",
+      "category": "",
+      "date": "2026-09-23",
+      "url": "https://ads.naver.com/notice/34399?searchValue=&page=1",
       "read": false,
       "important": false
     },
