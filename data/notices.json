@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-07 09:23:42 KST",
+  "updated_at": "2026-10-07 21:15:41 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "7514c903e7d5c19612fe",
+      "title": "[안내] 주류 광고 경고문구 표기 기준 변경 안내 (2026년 11월 9일 시행) new 공통 2026-10-07",
+      "category": "",
+      "date": "2026-10-07",
+      "url": "https://ads.naver.com/notice/34637?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "1a00587dff5b48f1a426",
+      "title": "(업데이트3) 파워링크 AI 요약텍스트 기능 제공 및 운영 기준 안내 new 공통 2026-10-07",
+      "category": "",
+      "date": "2026-10-07",
+      "url": "https://ads.naver.com/notice/34356?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "cecdcfaa1b0009156148",
@@ -43,11 +63,41 @@
     },
     {
       "platform": "NAVER",
+      "id": "faf70b9165e64da366e7",
+      "title": "(수정) [신규 노출 영역] 네이버+ > 카페 홈 피드 디스플레이광고/쇼핑검색광고 노출 안내 공통 2026-09-30",
+      "category": "",
+      "date": "2026-09-30",
+      "url": "https://ads.naver.com/notice/34386?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "e97e846de04b5aac3db9",
       "title": "2026년 10월 신용카드 무이자 할부 혜택 new 공통 2026-09-30",
       "category": "",
       "date": "2026-09-30",
       "url": "https://ads.naver.com/notice/34478?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "b49180919eb7a096c0c4",
+      "title": "2026년 10월 신용카드 무이자 할부 혜택 공통 2026-09-30",
+      "category": "",
+      "date": "2026-09-30",
+      "url": "https://ads.naver.com/notice/34478?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "975a42cf945a82a7b75d",
+      "title": "2026년 9월 세무일자의 세금계산서 발행일 안내 공통 2026-09-30",
+      "category": "",
+      "date": "2026-09-30",
+      "url": "https://ads.naver.com/notice/34485?searchValue=&page=1",
       "read": false,
       "important": false
     },
