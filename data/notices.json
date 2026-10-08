@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-08 09:22:08 KST",
+  "updated_at": "2026-10-08 21:15:09 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "f988e9e5f79ad9a82c1d",
+      "title": "플레이스광고 'ADVoost 플레이스' 스마트플레이스센터 오픈 안내 new 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34672?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "6dd07f1dce6b88d9d1ee",
+      "title": "쇼핑검색광고 모바일 통합검색 맞춤형 추천 영역 노출 위치 변경 테스트 안내 new 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34592?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "49757ec9c52343ec6caa",
+      "title": "(수정10) 플레이스광고 디지털 옥외광고(ADVoost Screen) 상품 출시 안내 new 검색광고 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/28168?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "45ac2e94736ac7a3f11f",
+      "title": "(수정) [쇼핑검색광고/ADVoost 쇼핑] 모바일 통합검색 쇼핑 컬렉션 전체 상품 노출 개수 최적화 테스트 안내 (2차 테스트 일정 추가) new 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34091?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "3e1296ad0e2a90588ac0",
+      "title": "중요 (수정) 네이버 디지털옥외광고 10월 광고비 100% 환급 이벤트 new 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "24fb3ea28704bda0f1f7",
+      "title": "파워컨텐츠 UX 변경 안내 new 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34673?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "7514c903e7d5c19612fe",
@@ -43,6 +103,16 @@
     },
     {
       "platform": "NAVER",
+      "id": "7ab7f019b66eccb0841f",
+      "title": "2026년 3분기 부가세 신고 관련 세금계산서 마감 일정 안내 공통 2026-10-01",
+      "category": "",
+      "date": "2026-10-01",
+      "url": "https://ads.naver.com/notice/34489?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "353ffc8f0ab33ad70ae6",
       "title": "(수정) [테스트안내] 네이버앱 메인 홈 피드 신규 광고 영역 (9/8~) > 전체 노출 적용 new 공통 2026-10-01",
       "category": "",
@@ -58,6 +128,26 @@
       "category": "",
       "date": "2026-10-01",
       "url": "https://ads.naver.com/notice/34489?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "06197a6268bf83f00185",
+      "title": "(수정) [테스트안내] 네이버앱 메인 홈 피드 신규 광고 영역 (9/8~) > 전체 노출 적용 공통 2026-10-01",
+      "category": "",
+      "date": "2026-10-01",
+      "url": "https://ads.naver.com/notice/33980?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "03086aaede3f93863c88",
+      "title": "네이버웹툰 보장형 광고 상품명 변경 안내 보장형 디스플레이 광고 2026-10-01",
+      "category": "",
+      "date": "2026-10-01",
+      "url": "https://ads.naver.com/notice/34475?searchValue=&page=1",
       "read": false,
       "important": false
     },
