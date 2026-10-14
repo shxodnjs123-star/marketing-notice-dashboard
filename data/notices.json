@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-14 09:31:47 KST",
+  "updated_at": "2026-10-14 21:27:26 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "db2e6b555e5c9c4dddca",
+      "title": "(9월 이벤트 종료) 네이버 디지털옥외광고 광고비 100% 환급 이벤트 안내 (수정) new 공통 2026-10-14",
+      "category": "",
+      "date": "2026-10-14",
+      "url": "https://ads.naver.com/notice/33770?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "48edfe8fdc0edf487418",
@@ -88,6 +98,26 @@
       "category": "",
       "date": "2026-10-08",
       "url": "https://ads.naver.com/notice/34673?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "0817963e6b51e2af5094",
+      "title": "(수정10) 플레이스광고 디지털 옥외광고(ADVoost Screen) 상품 출시 안내 new 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/28168?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "90c4eb90cf031bcff9e9",
+      "title": "[안내] 주류 광고 경고문구 표기 기준 변경 안내 (2026년 11월 9일 시행) 공통 2026-10-07",
+      "category": "",
+      "date": "2026-10-07",
+      "url": "https://ads.naver.com/notice/34637?searchValue=&page=1",
       "read": false,
       "important": false
     },
