@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 09:31:24 KST",
+  "updated_at": "2026-10-15 21:27:13 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -53,6 +53,46 @@
     },
     {
       "platform": "NAVER",
+      "id": "b55eed551d9a77d9bbc2",
+      "title": "(수정) [쇼핑검색광고/ADVoost 쇼핑] 모바일 통합검색 쇼핑 컬렉션 전체 상품 노출 개수 최적화 테스트 안내 (2차 테스트 일정 추가) 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34091?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "87294ed58469b63331dc",
+      "title": "쇼핑검색광고 모바일 통합검색 맞춤형 추천 영역 노출 위치 변경 테스트 안내 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34592?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "847cec53f6aa69148111",
+      "title": "파워컨텐츠 UX 변경 안내 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34673?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "81f42605e24d0723651f",
+      "title": "중요 (수정) 네이버 디지털옥외광고 10월 광고비 100% 환급 이벤트 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "6dd07f1dce6b88d9d1ee",
       "title": "쇼핑검색광고 모바일 통합검색 맞춤형 추천 영역 노출 위치 변경 테스트 안내 new 공통 2026-10-08",
       "category": "",
@@ -83,11 +123,31 @@
     },
     {
       "platform": "NAVER",
+      "id": "459c8b9ab6e956d9f3ba",
+      "title": "플레이스광고 'ADVoost 플레이스' 스마트플레이스센터 오픈 안내 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/34672?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "3e1296ad0e2a90588ac0",
       "title": "중요 (수정) 네이버 디지털옥외광고 10월 광고비 100% 환급 이벤트 new 공통 2026-10-08",
       "category": "",
       "date": "2026-10-08",
       "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "3b5d0df5c8563377c2bf",
+      "title": "(수정10) 플레이스광고 디지털 옥외광고(ADVoost Screen) 상품 출시 안내 공통 2026-10-08",
+      "category": "",
+      "date": "2026-10-08",
+      "url": "https://ads.naver.com/notice/28168?searchValue=&page=1",
       "read": false,
       "important": false
     },
