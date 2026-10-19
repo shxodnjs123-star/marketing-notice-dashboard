@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-19 09:30:17 KST",
+  "updated_at": "2026-10-19 21:29:50 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "eaa1d6f985bd7020f239",
+      "title": "대구광역시 달성군 구지면 지역체계 변경에 따른 광고주 대응 방안 안내 new 검색광고 2026-10-19",
+      "category": "",
+      "date": "2026-10-19",
+      "url": "https://ads.naver.com/notice/34851?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "83c48ad11531c8936cd9",
+      "title": "[ADVoost 쇼핑/쇼핑검색광고] 네이버 PC 메인 쇼핑블록 'N+스토어 혜택' 탭 변경 운영 안내 new 공통 2026-10-19",
+      "category": "",
+      "date": "2026-10-19",
+      "url": "https://ads.naver.com/notice/34857?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "17aedb7a554257e58b0e",
+      "title": "플레이스광고 음식점 업종 목록형 업체 검색 결과 개편 테스트 안내 new 공통 2026-10-19",
+      "category": "",
+      "date": "2026-10-19",
+      "url": "https://ads.naver.com/notice/34897?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "e1669bd3fc35a2f7f102",
@@ -45,6 +75,26 @@
       "platform": "NAVER",
       "id": "72d3cb2196ecb16e1a22",
       "title": "[안내] 디지털옥외광고 신규 송출 매체(IPTV) 추가 안내 new 공통 2026-10-12",
+      "category": "",
+      "date": "2026-10-12",
+      "url": "https://ads.naver.com/notice/34656?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "28149ee7ae47b347f160",
+      "title": "[ADVoost 쇼핑/쇼핑검색광고] 네이버 메인 MO 카·테크 주제판 광고 노출 안내 공통 2026-10-12",
+      "category": "",
+      "date": "2026-10-12",
+      "url": "https://ads.naver.com/notice/34721?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "1347d97e292757736eb9",
+      "title": "[안내] 디지털옥외광고 신규 송출 매체(IPTV) 추가 안내 공통 2026-10-12",
       "category": "",
       "date": "2026-10-12",
       "url": "https://ads.naver.com/notice/34656?searchValue=&page=1",
