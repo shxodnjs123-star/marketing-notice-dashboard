@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 09:33:19 KST",
+  "updated_at": "2026-10-20 21:26:36 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -48,6 +48,16 @@
       "category": "",
       "date": "2026-10-14",
       "url": "https://ads.naver.com/notice/33770?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "d8ad7796a7228a13b19d",
+      "title": "[안내] 디지털옥외광고 광고 가능 업종 확대 안내 공통 2026-10-13",
+      "category": "",
+      "date": "2026-10-13",
+      "url": "https://ads.naver.com/notice/34711?searchValue=&page=1",
       "read": false,
       "important": false
     },
