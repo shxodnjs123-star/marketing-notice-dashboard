@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-21 09:31:32 KST",
+  "updated_at": "2026-10-21 21:27:59 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "9f759bc6c819843c7f79",
+      "title": "[디스플레이 광고] '쇼핑 프로모션' → '쇼핑 고객 확장' 캠페인 목적 이름 변경 및 잠재고객 확장 등 신규 기능 제공 안내 new 공통 2026-10-21",
+      "category": "",
+      "date": "2026-10-21",
+      "url": "https://ads.naver.com/notice/34687?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "02ca1803745ccd6a4347",
+      "title": "[디스플레이 광고] 타겟 찾기 Beta 오픈 및 '오디언스 관리' 메뉴명 변경 안내 new 디스플레이 광고 2026-10-21",
+      "category": "",
+      "date": "2026-10-21",
+      "url": "https://ads.naver.com/notice/34889?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "eaa1d6f985bd7020f239",
