@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 21:26:36 KST",
+  "updated_at": "2026-10-21 09:31:32 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -45,6 +45,16 @@
       "platform": "NAVER",
       "id": "db2e6b555e5c9c4dddca",
       "title": "(9월 이벤트 종료) 네이버 디지털옥외광고 광고비 100% 환급 이벤트 안내 (수정) new 공통 2026-10-14",
+      "category": "",
+      "date": "2026-10-14",
+      "url": "https://ads.naver.com/notice/33770?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "6e138ba94897a8fcdeb8",
+      "title": "(9월 이벤트 종료) 네이버 디지털옥외광고 광고비 100% 환급 이벤트 안내 (수정) 공통 2026-10-14",
       "category": "",
       "date": "2026-10-14",
       "url": "https://ads.naver.com/notice/33770?searchValue=&page=1",
