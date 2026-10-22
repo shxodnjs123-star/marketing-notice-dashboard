@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-22 09:32:12 KST",
+  "updated_at": "2026-10-22 21:29:25 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "f1d76a7942cfd94d7c0b",
+      "title": "네이버 광고주센터가 11월 4일 네이버애즈(N Ads)로 새롭게 시작합니다 new 공통 2026-10-22",
+      "category": "",
+      "date": "2026-10-22",
+      "url": "https://ads.naver.com/notice/34943?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "eec95e9b72ba3d6ae6d1",
+      "title": "파워컨텐츠 구매 가능 키워드 확대 안내 (10/29) new 공통 2026-10-22",
+      "category": "",
+      "date": "2026-10-22",
+      "url": "https://ads.naver.com/notice/34899?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "21892a1b54d53d6e225a",
+      "title": "플레이스광고 음식점 업종 목록형 업체 검색 결과 개편 테스트 안내 new 공통 2026-10-22",
+      "category": "",
+      "date": "2026-10-22",
+      "url": "https://ads.naver.com/notice/34897?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "9f759bc6c819843c7f79",
