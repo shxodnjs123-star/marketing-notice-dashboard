@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-23 09:33:33 KST",
+  "updated_at": "2026-10-23 21:23:15 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "e3e5f5acba75487651df",
+      "title": "쇼핑검색광고 신규 지표 '클릭기대지수' 도입 및 기존 품질지수 종료 안내 new 공통 2026-10-23",
+      "category": "",
+      "date": "2026-10-23",
+      "url": "https://ads.naver.com/notice/34974?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "6737a38866dfae7949f8",
+      "title": "쇼핑 고객 확장 캠페인 내 다이내믹 소재 UI 안내 new 공통 2026-10-23",
+      "category": "",
+      "date": "2026-10-23",
+      "url": "https://ads.naver.com/notice/34972?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "462814fa482b90a82253",
+      "title": "광고 계정 관리 메뉴 개선 안내 new 공통 2026-10-23",
+      "category": "",
+      "date": "2026-10-23",
+      "url": "https://ads.naver.com/notice/34958?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "f1d76a7942cfd94d7c0b",
