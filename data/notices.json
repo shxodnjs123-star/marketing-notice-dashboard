@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 09:38:22 KST",
+  "updated_at": "2026-10-26 23:32:36 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -103,11 +103,31 @@
     },
     {
       "platform": "NAVER",
+      "id": "4d1d8e15ca6972d68c51",
+      "title": "[ADVoost 쇼핑/쇼핑검색광고] 네이버 PC 메인 쇼핑블록 'N+스토어 혜택' 탭 변경 운영 안내 공통 2026-10-19",
+      "category": "",
+      "date": "2026-10-19",
+      "url": "https://ads.naver.com/notice/34857?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "17aedb7a554257e58b0e",
       "title": "플레이스광고 음식점 업종 목록형 업체 검색 결과 개편 테스트 안내 new 공통 2026-10-19",
       "category": "",
       "date": "2026-10-19",
       "url": "https://ads.naver.com/notice/34897?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "084da7dd23b4370de59c",
+      "title": "대구광역시 달성군 구지면 지역체계 변경에 따른 광고주 대응 방안 안내 검색광고 2026-10-19",
+      "category": "",
+      "date": "2026-10-19",
+      "url": "https://ads.naver.com/notice/34851?searchValue=&page=1",
       "read": false,
       "important": false
     },
