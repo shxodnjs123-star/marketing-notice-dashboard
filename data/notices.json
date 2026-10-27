@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-27 09:38:53 KST",
+  "updated_at": "2026-10-27 21:32:30 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "e9f667b7550335264fd0",
+      "title": "(수정2) [쇼핑검색광고/ADVoost 쇼핑] 모바일 통합검색 쇼핑 컬렉션 전체 상품 노출 개수 최적화 테스트 안내 (3차 테스트 일정 추가) new 공통 2026-10-27",
+      "category": "",
+      "date": "2026-10-27",
+      "url": "https://ads.naver.com/notice/34091?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "4a776622f31efa66c594",
+      "title": "중요 (수정2) 네이버 디지털옥외광고 10~11월 광고비 100% 환급 이벤트 new 공통 2026-10-27",
+      "category": "",
+      "date": "2026-10-27",
+      "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "e3e5f5acba75487651df",
@@ -65,6 +85,16 @@
       "platform": "NAVER",
       "id": "9f759bc6c819843c7f79",
       "title": "[디스플레이 광고] '쇼핑 프로모션' → '쇼핑 고객 확장' 캠페인 목적 이름 변경 및 잠재고객 확장 등 신규 기능 제공 안내 new 공통 2026-10-21",
+      "category": "",
+      "date": "2026-10-21",
+      "url": "https://ads.naver.com/notice/34687?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "0dded076986ef65a29a3",
+      "title": "[디스플레이 광고] '쇼핑 프로모션' → '쇼핑 고객 확장' 캠페인 목적 이름 변경 및 잠재고객 확장 등 신규 기능 제공 안내 new 디스플레이 광고 2026-10-21",
       "category": "",
       "date": "2026-10-21",
       "url": "https://ads.naver.com/notice/34687?searchValue=&page=1",
