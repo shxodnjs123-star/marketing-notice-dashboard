@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-28 09:41:14 KST",
+  "updated_at": "2026-10-28 21:36:28 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "ddbb0d296534366bfff6",
+      "title": "네이버애즈 리브랜딩에 따른 이용약관 및 운영정책 개정 안내 new 공통 2026-10-28",
+      "category": "",
+      "date": "2026-10-28",
+      "url": "https://ads.naver.com/notice/35066?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "176f7b192567cff5fe3f",
+      "title": "(10/28 수정) 주류 광고 경고문구 표기 기준 변경 안내 (2026년 11월 9일 시행) new 공통 2026-10-28",
+      "category": "",
+      "date": "2026-10-28",
+      "url": "https://ads.naver.com/notice/34637?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "e9f667b7550335264fd0",
@@ -78,6 +98,16 @@
       "category": "",
       "date": "2026-10-22",
       "url": "https://ads.naver.com/notice/34897?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "c4fbdf8716f5ad6e3b73",
+      "title": "[디스플레이 광고] 타겟 찾기 Beta 오픈 및 '오디언스 관리' 메뉴명 변경 안내 디스플레이 광고 2026-10-21",
+      "category": "",
+      "date": "2026-10-21",
+      "url": "https://ads.naver.com/notice/34889?searchValue=&page=1",
       "read": false,
       "important": false
     },
