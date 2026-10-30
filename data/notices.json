@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-30 13:58:00 KST",
+  "updated_at": "2026-10-31 02:43:51 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "ac3247dcc4723f22b267",
+      "title": "2026년 11월 신용카드 무이자 할부 혜택 new 공통 2026-10-30",
+      "category": "",
+      "date": "2026-10-30",
+      "url": "https://ads.naver.com/notice/35148?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "703bf5bdda9e79d13d68",
+      "title": "[안내] 광고주센터 개인정보 안전성 확보조치 기준 적용 안내 (2026년 10월 28일 적용) new 공통 2026-10-30",
+      "category": "",
+      "date": "2026-10-30",
+      "url": "https://ads.naver.com/notice/35149?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "a133ac6c4e8335c6cd4c",
@@ -108,6 +128,16 @@
       "category": "",
       "date": "2026-10-23",
       "url": "https://ads.naver.com/notice/34958?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "0eb426f97016e6735154",
+      "title": "쇼핑검색광고 신규 지표 '클릭기대지수' 도입 및 기존 품질지수 종료 안내 공통 2026-10-23",
+      "category": "",
+      "date": "2026-10-23",
+      "url": "https://ads.naver.com/notice/34974?searchValue=&page=1",
       "read": false,
       "important": false
     },
