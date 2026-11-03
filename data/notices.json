@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 06:25:22 KST",
+  "updated_at": "2026-11-03 14:53:07 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -98,6 +98,16 @@
       "category": "",
       "date": "2026-10-27",
       "url": "https://ads.naver.com/notice/34091?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "b1d08e75a2b3e5f66040",
+      "title": "중요 (수정2) 네이버 디지털옥외광고 10~11월 광고비 100% 환급 이벤트 공통 2026-10-27",
+      "category": "",
+      "date": "2026-10-27",
+      "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
       "read": false,
       "important": false
     },
