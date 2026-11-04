@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-04 14:29:04 KST",
+  "updated_at": "2026-11-05 04:22:58 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "e1e1b5867bcbe73711d5",
+      "title": "[쇼핑검색광고/ADVoost 쇼핑] 네이버 뉴스-모바일/네이버 메인-모바일(언론사편집, 엔터, 스포츠) 지면 노출 확대 new 공통 2026-11-04",
+      "category": "",
+      "date": "2026-11-04",
+      "url": "https://ads.naver.com/notice/35261?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "3cdd9b3c0dcdb67f23f3",
+      "title": "파워링크 '문구 생성' 테스트 및 설정 기능 제공 안내 new 공통 2026-11-04",
+      "category": "",
+      "date": "2026-11-04",
+      "url": "https://ads.naver.com/notice/35271?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "b8badb645e170c605663",
