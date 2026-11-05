@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-05 04:22:58 KST",
+  "updated_at": "2026-11-05 14:49:00 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "824a511f9e33747b3f84",
+      "title": "(수정) 디스플레이 광고 일부 업종 광고 기준 변경 (완화) new 공통 2026-11-05",
+      "category": "",
+      "date": "2026-11-05",
+      "url": "https://ads.naver.com/notice/35130?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "679f7fb680aacbd85518",
+      "title": "(수정) [디스플레이 광고] 모바일 검색홈(스마트채널) 이미지 배너(750×280) 신규 등록 중단 및 네이티브 이미지 배너형(모바일 검색홈) 전환 안내 new 공통 2026-11-05",
+      "category": "",
+      "date": "2026-11-05",
+      "url": "https://ads.naver.com/notice/34505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "e1e1b5867bcbe73711d5",
@@ -98,6 +118,16 @@
       "category": "",
       "date": "2026-10-29",
       "url": "https://ads.naver.com/notice/35081?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "3bdf1a8eef8d495c0ec5",
+      "title": "파워링크 UI 변경 테스트 안내 공통 2026-10-29",
+      "category": "",
+      "date": "2026-10-29",
+      "url": "https://ads.naver.com/notice/35049?searchValue=&page=1",
       "read": false,
       "important": false
     },
