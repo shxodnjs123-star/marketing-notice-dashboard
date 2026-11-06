@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-06 14:45:42 KST",
+  "updated_at": "2026-11-07 03:55:02 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "054872561b406f1b45fc",
+      "title": "(11/6 수정) 주류 광고 경고문구 표기 기준 변경 안내 (2026년 11월 9일 시행) new 공통 2026-11-06",
+      "category": "",
+      "date": "2026-11-06",
+      "url": "https://ads.naver.com/notice/34637?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "a088f6eb982df6235ea1",
@@ -115,6 +125,16 @@
       "platform": "NAVER",
       "id": "703bf5bdda9e79d13d68",
       "title": "[안내] 광고주센터 개인정보 안전성 확보조치 기준 적용 안내 (2026년 10월 28일 적용) new 공통 2026-10-30",
+      "category": "",
+      "date": "2026-10-30",
+      "url": "https://ads.naver.com/notice/35149?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "6b8405c9790d191c0c00",
+      "title": "[안내] 광고주센터 개인정보 안전성 확보조치 기준 적용 안내 (2026년 10월 28일 적용) 공통 2026-10-30",
       "category": "",
       "date": "2026-10-30",
       "url": "https://ads.naver.com/notice/35149?searchValue=&page=1",
