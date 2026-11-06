@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 04:30:19 KST",
+  "updated_at": "2026-11-06 14:45:42 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -95,6 +95,16 @@
       "platform": "NAVER",
       "id": "ac3247dcc4723f22b267",
       "title": "2026년 11월 신용카드 무이자 할부 혜택 new 공통 2026-10-30",
+      "category": "",
+      "date": "2026-10-30",
+      "url": "https://ads.naver.com/notice/35148?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "8e8c9cfe8430afb5028f",
+      "title": "2026년 11월 신용카드 무이자 할부 혜택 공통 2026-10-30",
       "category": "",
       "date": "2026-10-30",
       "url": "https://ads.naver.com/notice/35148?searchValue=&page=1",
