@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-11 14:22:12 KST",
+  "updated_at": "2026-11-12 04:15:41 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "b8127aa028867d24eaf1",
+      "title": "[쇼핑검색광고/ADVoost 쇼핑] 모바일 통합검색 쇼핑 컬렉션 전체 상품 노출 개수 최적화 실적용 안내 new 공통 2026-11-11",
+      "category": "",
+      "date": "2026-11-11",
+      "url": "https://ads.naver.com/notice/35405?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "8108b4bff097adc1ee1f",
+      "title": "파워링크 PC/모바일 통합검색 파비콘 영역 UI 변경 안내 new 공통 2026-11-11",
+      "category": "",
+      "date": "2026-11-11",
+      "url": "https://ads.naver.com/notice/35417?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "32b4cd73a8d7ef633b4f",
@@ -78,6 +98,16 @@
       "category": "",
       "date": "2026-11-05",
       "url": "https://ads.naver.com/notice/35296?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "f62da0178284cf77fca7",
+      "title": "(수정)파워링크 '문구 생성' 테스트 및 설정 기능 제공 안내 공통 2026-11-04",
+      "category": "",
+      "date": "2026-11-04",
+      "url": "https://ads.naver.com/notice/35271?searchValue=&page=1",
       "read": false,
       "important": false
     },
