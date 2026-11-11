@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-11 04:19:31 KST",
+  "updated_at": "2026-11-11 14:22:12 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "32b4cd73a8d7ef633b4f",
+      "title": "네이버 예약・주문 시스템 점검 안내 (11/13) new 공통 2026-11-11",
+      "category": "",
+      "date": "2026-11-11",
+      "url": "https://ads.naver.com/notice/35398?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "ac103c14c3ea74be8381",
@@ -85,6 +95,16 @@
       "platform": "NAVER",
       "id": "3cdd9b3c0dcdb67f23f3",
       "title": "파워링크 '문구 생성' 테스트 및 설정 기능 제공 안내 new 공통 2026-11-04",
+      "category": "",
+      "date": "2026-11-04",
+      "url": "https://ads.naver.com/notice/35271?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "08f41aed0c2e58593ce0",
+      "title": "(수정)파워링크 '문구 생성' 테스트 및 설정 기능 제공 안내 new 공통 2026-11-04",
       "category": "",
       "date": "2026-11-04",
       "url": "https://ads.naver.com/notice/35271?searchValue=&page=1",
