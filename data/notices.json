@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 15:26:05 KST",
+  "updated_at": "2026-11-13 04:33:06 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -68,6 +68,26 @@
       "category": "",
       "date": "2026-11-05",
       "url": "https://ads.naver.com/notice/34505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "d17b975d310dfe775bd9",
+      "title": "[안내] 디스플레이 광고 지역 타겟팅 행정구역 변경 안내 (대구 달성군 구지읍, 경기 평택시 고덕1·2동 등) 디스플레이 광고 2026-11-05",
+      "category": "",
+      "date": "2026-11-05",
+      "url": "https://ads.naver.com/notice/34852?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "a1662e635dc00a9e3677",
+      "title": "(수정) 병의원 검색 확대 테스트에 따른 플레이스검색광고 노출 변경 안내 공통 2026-11-05",
+      "category": "",
+      "date": "2026-11-05",
+      "url": "https://ads.naver.com/notice/35296?searchValue=&page=1",
       "read": false,
       "important": false
     },
