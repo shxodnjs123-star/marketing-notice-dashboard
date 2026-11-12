@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 04:15:41 KST",
+  "updated_at": "2026-11-12 15:26:05 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -63,6 +63,16 @@
     },
     {
       "platform": "NAVER",
+      "id": "f5dbbb3b56003493c469",
+      "title": "(수정) [디스플레이 광고] 모바일 검색홈(스마트채널) 이미지 배너(750×280) 신규 등록 중단 및 네이티브 이미지 배너형(모바일 검색홈) 전환 안내 공통 2026-11-05",
+      "category": "",
+      "date": "2026-11-05",
+      "url": "https://ads.naver.com/notice/34505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "a088f6eb982df6235ea1",
       "title": "[안내] 디스플레이 광고 지역 타겟팅 행정구역 변경 안내 (대구 달성군 구지읍, 경기 평택시 고덕1·2동 등) new 디스플레이 광고 2026-11-05",
       "category": "",
@@ -83,11 +93,31 @@
     },
     {
       "platform": "NAVER",
+      "id": "6ca11b35abc56acf0942",
+      "title": "(수정) 디스플레이 광고 일부 업종 광고 기준 변경 (완화) 공통 2026-11-05",
+      "category": "",
+      "date": "2026-11-05",
+      "url": "https://ads.naver.com/notice/35130?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "679f7fb680aacbd85518",
       "title": "(수정) [디스플레이 광고] 모바일 검색홈(스마트채널) 이미지 배너(750×280) 신규 등록 중단 및 네이티브 이미지 배너형(모바일 검색홈) 전환 안내 new 공통 2026-11-05",
       "category": "",
       "date": "2026-11-05",
       "url": "https://ads.naver.com/notice/34505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "5947d17e34efd226b931",
+      "title": "(수정) 병의원 검색 확대 테스트에 따른 플레이스검색광고 노출 변경 안내 new 공통 2026-11-05",
+      "category": "",
+      "date": "2026-11-05",
+      "url": "https://ads.naver.com/notice/35296?searchValue=&page=1",
       "read": false,
       "important": false
     },
