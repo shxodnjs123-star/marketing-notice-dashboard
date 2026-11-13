@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-13 04:33:06 KST",
+  "updated_at": "2026-11-13 14:45:50 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "524048231dd089a39036",
+      "title": "(수정) 쇼핑검색광고 신규 지표 '클릭 기대지수' 도입 및 기존 품질지수 종료 안내 new 공통 2026-11-13",
+      "category": "",
+      "date": "2026-11-13",
+      "url": "https://ads.naver.com/notice/34974?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "b8127aa028867d24eaf1",
@@ -438,6 +448,16 @@
       "category": "",
       "date": "2026-10-22",
       "url": "https://ads.naver.com/notice/34899?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "4d580ba1aa5d5f97f89c",
+      "title": "중요 (수정) 네이버 광고주센터가 11월 4일 네이버애즈(N Ads)로 새롭게 시작합니다 공통 2026-10-22",
+      "category": "",
+      "date": "2026-10-22",
+      "url": "https://ads.naver.com/notice/34943?searchValue=&page=1",
       "read": false,
       "important": false
     },
