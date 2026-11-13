@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:45:50 KST",
+  "updated_at": "2026-11-14 04:14:05 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -58,6 +58,16 @@
       "category": "",
       "date": "2026-11-09",
       "url": "https://ads.naver.com/notice/35369?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "8899e5e44ea44d8e614a",
+      "title": "(11/6 수정) 주류 광고 경고문구 표기 기준 변경 안내 (2026년 11월 9일 시행) 공통 2026-11-06",
+      "category": "",
+      "date": "2026-11-06",
+      "url": "https://ads.naver.com/notice/34637?searchValue=&page=1",
       "read": false,
       "important": false
     },
