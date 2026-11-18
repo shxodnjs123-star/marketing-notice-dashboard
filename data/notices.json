@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-18 05:29:31 KST",
+  "updated_at": "2026-11-18 15:35:19 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "28b0e012d435159367e4",
+      "title": "[안내] 네이버애즈 개인정보 안전성 확보조치 기준 적용 화면 추가 안내 (2026년 11월 25일 적용 예정) new 공통 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "c1745023205b89cabf76",
@@ -75,6 +85,16 @@
       "platform": "NAVER",
       "id": "32b4cd73a8d7ef633b4f",
       "title": "네이버 예약・주문 시스템 점검 안내 (11/13) new 공통 2026-11-11",
+      "category": "",
+      "date": "2026-11-11",
+      "url": "https://ads.naver.com/notice/35398?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "2f37b9103b1104a58031",
+      "title": "네이버 예약・주문 시스템 점검 안내 (11/13) 공통 2026-11-11",
       "category": "",
       "date": "2026-11-11",
       "url": "https://ads.naver.com/notice/35398?searchValue=&page=1",
