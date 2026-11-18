@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-18 15:35:19 KST",
+  "updated_at": "2026-11-19 04:59:35 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "95430b923cd3a85c8c4b",
+      "title": "플레이스검색광고 부동산 업종 네이버페이 부동산 단지 상세·단지핀 광고 노출 형태 변경 안내 new 검색광고 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35547?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "910f10cce1e0c3b525c3",
+      "title": "[쇼핑검색광고/ADVoost 쇼핑] 예산 설정을 돕는 '예산 시뮬레이터' 출시 안내 new 공통 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35576?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "52b49e627fc85252f9c0",
+      "title": "[파워링크] 확장검색 제외 검색어 ‘단어 포함’ 기능 안내 new 검색광고 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35577?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "28b0e012d435159367e4",
@@ -73,6 +103,16 @@
     },
     {
       "platform": "NAVER",
+      "id": "9e20dbec21b288b8d8e5",
+      "title": "파워링크 PC/모바일 통합검색 파비콘 영역 UI 변경 안내 공통 2026-11-11",
+      "category": "",
+      "date": "2026-11-11",
+      "url": "https://ads.naver.com/notice/35417?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "8108b4bff097adc1ee1f",
       "title": "파워링크 PC/모바일 통합검색 파비콘 영역 UI 변경 안내 new 공통 2026-11-11",
       "category": "",
@@ -98,6 +138,16 @@
       "category": "",
       "date": "2026-11-11",
       "url": "https://ads.naver.com/notice/35398?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "f0a08fef2f184f44eb49",
+      "title": "중요 (수정3) 네이버 디지털옥외광고 10~11월 광고비 100% 환급 이벤트 디지털옥외광고 2026-11-10",
+      "category": "",
+      "date": "2026-11-10",
+      "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
       "read": false,
       "important": false
     },
