@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 04:59:35 KST",
+  "updated_at": "2026-11-19 15:37:02 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -38,6 +38,16 @@
       "category": "",
       "date": "2026-11-18",
       "url": "https://ads.naver.com/notice/35505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "27864b7d21d43258f2f5",
+      "title": "(수정) [파워링크] 확장검색 제외 검색어 ‘단어 포함’ 기능 안내 new 검색광고 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35577?searchValue=&page=1",
       "read": false,
       "important": false
     },
