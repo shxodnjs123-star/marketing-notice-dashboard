@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-19 17:24:34 KST",
+  "updated_at": "2026-11-20 05:00:31 KST",
   "notices": [
+    {
+      "platform": "GOOGLE",
+      "id": "a5b97dedabde217ed1fe",
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "category": "공식 뉴스",
+      "date": "2026-11-20",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "GOOGLE",
       "id": "60e9bdf9250e072767ba",
@@ -1586,23 +1596,23 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-19T17:24:15.522046+09:00"
+      "checked_at": "2026-11-20T04:59:23.993256+09:00"
     },
     "KAKAO": {
       "ok": false,
       "count": 0,
-      "checked_at": "2026-11-19T17:24:29.795444+09:00",
-      "error": "No items extracted"
+      "error": "Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://lounge-board.kakao.com/bulletin/list?serviceType=KAKAOMOMENT\", waiting until \"networkidle\"\n",
+      "checked_at": "2026-11-20T05:00:28.110253+09:00"
     },
     "GOOGLE": {
       "ok": true,
       "count": 20,
-      "checked_at": "2026-11-19T17:24:30.004235+09:00"
+      "checked_at": "2026-11-20T05:00:28.262335+09:00"
     },
     "META": {
       "ok": true,
       "count": 10,
-      "checked_at": "2026-11-19T17:24:34.422065+09:00"
+      "checked_at": "2026-11-20T05:00:31.769428+09:00"
     }
   }
 }
