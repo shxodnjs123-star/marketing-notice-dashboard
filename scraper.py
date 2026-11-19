@@ -56,6 +56,8 @@ def kakao():
                 if not title or "/bulletin/" not in href: continue
                 if href.startswith("/"): href="https://lounge-board.kakao.com"+href
                 parent=" ".join(a.locator("xpath=..").inner_text().split())
+                if not re.search(r"20\d{2}[.\-/]",parent):
+                    parent=" ".join(a.locator("xpath=../..").inner_text().split())
                 m=re.search(r"(20\d{2})[.\-/](\d{1,2})[.\-/](\d{1,2})",parent)
                 if not m: continue
                 date=f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}"
@@ -68,9 +70,42 @@ def kakao():
         b.close()
     return out
 
+def rss(platform, url):
+    from email.utils import parsedate_to_datetime
+    from xml.etree import ElementTree as ET
+    response = requests.get(url, headers={"User-Agent":"Mozilla/5.0"}, timeout=30)
+    response.raise_for_status()
+    root = ET.fromstring(response.content)
+    out = []
+    for item in root.findall(".//item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        date = item.findtext("pubDate")
+        if not title or not link.startswith("https://") or not date: continue
+        day = parsedate_to_datetime(date).astimezone(KST).date().isoformat()
+        out.append({"platform":platform,"id":uid(platform,link,title),"title":title,"category":"공식 뉴스","date":day,"url":link,"read":False,"important":False})
+    return out
+
+def google():
+    return rss("GOOGLE","https://blog.google/products/ads-commerce/rss/")
+
+def meta():
+    return rss("META","https://www.facebook.com/business/news/rss/")
+
 def update():
     data=load(); old={n["id"]:n for n in data.get("notices",[])}
-    fresh=naver()+kakao()
+    fresh=[]
+    status={}
+    for platform, fn in [("NAVER",naver),("KAKAO",kakao),("GOOGLE",google),("META",meta)]:
+        try:
+            items=fn()
+            fresh.extend(items)
+            status[platform]={"ok":bool(items),"count":len(items),"checked_at":datetime.now(KST).isoformat()}
+            if not items: status[platform]["error"]="No items extracted"
+        except Exception as e:
+            status[platform]={"ok":False,"count":0,"error":str(e)[:300],"checked_at":datetime.now(KST).isoformat()}
+        print(platform,status[platform])
+    data["source_status"]=status
     for n in fresh:
         if n["id"] in old:
             # Preserve user state
