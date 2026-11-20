@@ -96,7 +96,7 @@ def update():
     data=load(); old={n["id"]:n for n in data.get("notices",[])}
     fresh=[]
     status={}
-    for platform, fn in [("NAVER",naver),("KAKAO",kakao),("GOOGLE",google),("META",meta)]:
+    for platform, fn in [("NAVER",naver),("GOOGLE",google),("META",meta)]:
         try:
             items=fn()
             fresh.extend(items)
@@ -105,6 +105,7 @@ def update():
         except Exception as e:
             status[platform]={"ok":False,"count":0,"error":str(e)[:300],"checked_at":datetime.now(KST).isoformat()}
         print(platform,status[platform])
+    status["KAKAO"]={"mode":"manual","count":0,"reason":"Login required"}
     data["source_status"]=status
     for n in fresh:
         if n["id"] in old:
