@@ -145,11 +145,63 @@ def meta():
         ("한국어",lambda:dated_page("META","https://about.fb.com/ko/news/",r"/ko/news/20\d{2}/\d{2}/.+"),True),
         ("글로벌",lambda:rss("META","https://www.facebook.com/business/news/rss/"),True)])
 
+
+PUBLISHERS = {"플레이디":"플레이디","메조미디어":"메조미디어","인크로스":"인크로스","DMC미디어":"DMC미디어","DMC":"DMC미디어","모비데이즈":"모비데이즈","나스미디어":"KT나스미디어","Meta":"Meta","구글":"Google"}
+def report_list(url, kind):
+    from urllib.parse import urljoin, urlsplit
+    response=requests.get(url,headers=HEADERS,timeout=30)
+    response.raise_for_status()
+    soup=BeautifulSoup(response.text,"html.parser")
+    out=[]; seen=set()
+    cutoff=(datetime.now(KST).date()-timedelta(days=90)).isoformat()
+    for a in soup.select("a[href]"):
+        link=urljoin(response.url,a["href"])
+        if kind=="iboss" and not re.search(r"/ab-3208-\d+$",urlsplit(link).path): continue
+        if kind=="adic" and "/lit/report/show.do" not in link: continue
+        if kind=="mezzo" and urlsplit(link).hostname!="cdn.cjmezzomedia.com": continue
+        if link in seen: continue
+        title=" ".join(a.stripped_strings)
+        if len(title)<8 or title.startswith("Download"): continue
+        pub="메조미디어" if kind=="mezzo" else ""
+        day=None
+        for node in [a,*list(a.parents)[:5]]:
+            txt=" ".join(node.stripped_strings)
+            dates=set(re.findall(r"(20\d{2})[.-](\d{2})[.-](\d{2})",txt))
+            if len(dates)!=1: continue
+            if not pub:
+                pub=next((v for k,v in PUBLISHERS.items() if k.lower() in txt.lower()),"")
+            if not pub: continue
+            y,m,d=next(iter(dates))
+            try: day=datetime(int(y),int(m),int(d)).date().isoformat()
+            except ValueError: continue
+            break
+        if not pub or not day or day<cutoff: continue
+        if kind=="iboss":
+            title=re.sub(r"^.*?(\[[^\]]+\])",r"\1",title)
+            title=re.split(r"\s+(?:메조미디어|인크로스|DMC미디어|플레이디|모비데이즈|케이티나스미디어|Meta|구글)\s+20\d{2}[.-]",title)[0]
+            title=re.split(r"\s+20\d{2}\.\d{2}\.\d{2}\s+\d+",title)[0]
+        seen.add(link)
+        out.append({"platform":"REPORT","id":uid("REPORT",link,title),"title":title,"publisher":pub,"category":"마케팅 리포트","date":day,"url":link,"read":False,"important":False})
+    return out
+
+def reports():
+    items=collect_sources("REPORT",[
+        ("메조미디어",lambda:report_list("https://cjmezzomedia.com/insight-m","mezzo"),False),
+        ("광고정보센터",lambda:report_list("https://www.adic.or.kr/lit/report/list.do","adic"),False),
+        ("아이보스",lambda:report_list("https://www.i-boss.co.kr/ab-3207","iboss"),False)])
+    seen=set(); out=[]
+    for n in items:
+        title=re.sub(r"^\[[^\]]+\]\s*","",n["title"])
+        key=(n["publisher"],re.sub(r"\W+","",title).lower())
+        if key in seen: continue
+        seen.add(key); out.append(n)
+    return out
+
 def update():
     data=load(); old={n["id"]:n for n in data.get("notices",[])}
     fresh=[]
     status={}
-    for platform, fn in [("NAVER",naver),("GOOGLE",google),("META",meta)]:
+    for platform, fn in [("NAVER",naver),("GOOGLE",google),("META",meta),("REPORT",reports)]:
         try:
             items=fn()
             fresh.extend(items)
