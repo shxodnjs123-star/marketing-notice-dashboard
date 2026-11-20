@@ -9,6 +9,10 @@ on:
     paths: [scraper.py, .github/workflows/update.yml]
   workflow_dispatch:
 
+concurrency:
+  group: marketing-notice-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -18,6 +22,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -37,4 +43,9 @@ jobs:
           git config user.email "notice-bot@users.noreply.github.com"
           git add data/notices.json
           git diff --cached --quiet || git commit -m "chore: update marketing notices"
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || exit 1
+            if git push origin HEAD:main; then exit 0; fi
+            sleep 5
+          done
+          exit 1
