@@ -119,7 +119,7 @@ def dated_page(platform, url, pattern):
             day=datetime(int(m[1]),int(m[2]),int(m[3])).date().isoformat()
             out.append({"platform":platform,"id":uid(platform,link,title),"title":title,"category":"한국어 공식 공지","date":day,"url":link,"read":False,"important":False})
         except Exception as e: print("article",str(e)[:100])
-        if len(seen)>=25: break
+        if len(seen)>=150: break
     return out
 
 def collect_sources(platform, sources):
@@ -173,7 +173,7 @@ def report_list(url, kind):
             try: day=datetime(int(y),int(m),int(d)).date().isoformat()
             except ValueError: continue
             break
-        if not pub or not day or day<cutoff: continue
+        if not pub or not day: continue
         if kind=="iboss":
             title=re.sub(r"^.*?(\[[^\]]+\])",r"\1",title)
             title=re.split(r"\s+(?:메조미디어|인크로스|DMC미디어|플레이디|모비데이즈|케이티나스미디어|Meta|구글)\s+20\d{2}[.-]",title)[0]
