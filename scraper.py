@@ -86,11 +86,64 @@ def rss(platform, url):
         out.append({"platform":platform,"id":uid(platform,link,title),"title":title,"category":"공식 뉴스","date":day,"url":link,"read":False,"important":False})
     return out
 
+AD_RE = re.compile(r"광고|캠페인|어드밴티지|전환 측정|마케팅|advantage\+?|\bads?\b|advertis|campaign|conversion|measurement|bidding|performance max|demand gen|merchant center", re.I)
+EXCLUDE_RE = re.compile(r"success stor|case stud|성공 사례|실적 발표|quarterly results", re.I)
+def relevant(n):
+    return bool(AD_RE.search(n["title"])) and not EXCLUDE_RE.search(n["title"])
+
+def dated_page(platform, url, pattern):
+    from urllib.parse import urljoin, urlsplit
+    response=requests.get(url,headers=HEADERS,timeout=30)
+    response.raise_for_status()
+    soup=BeautifulSoup(response.text,"html.parser")
+    out=[]; seen=set()
+    for a in soup.select("a[href]"):
+        link=urljoin(response.url,a["href"])
+        if not re.search(pattern,urlsplit(link).path): continue
+        if urlsplit(link).hostname != urlsplit(response.url).hostname: continue
+        title=" ".join(a.stripped_strings)
+        if len(title)<8 or link in seen: continue
+        seen.add(link)
+        try:
+            page=requests.get(link,headers=HEADERS,timeout=15)
+            page.raise_for_status()
+            article=BeautifulSoup(page.text,"html.parser")
+            h=article.select_one("main h1, article h1, h1")
+            if h: title=" ".join(h.stripped_strings)
+            tag=article.select_one('meta[property="article:published_time"], time[datetime], meta[itemprop="datePublished"]')
+            raw=(tag.get("content") or tag.get("datetime") or "") if tag else ""
+            m=re.search(r"(20\d{2})[-/](\d{1,2})[-/](\d{1,2})",raw)
+            if not m:
+                m=re.search(r"(20\d{2})년\s*(\d{1,2})월\s*(\d{1,2})일",article.get_text(" ",strip=True))
+            if not m: continue
+            day=datetime(int(m[1]),int(m[2]),int(m[3])).date().isoformat()
+            out.append({"platform":platform,"id":uid(platform,link,title),"title":title,"category":"한국어 공식 공지","date":day,"url":link,"read":False,"important":False})
+        except Exception as e: print("article",str(e)[:100])
+        if len(seen)>=25: break
+    return out
+
+def collect_sources(platform, sources):
+    out=[]
+    for name, fn, filter_ads in sources:
+        try:
+            items=fn()
+            if filter_ads: items=[n for n in items if relevant(n)]
+            print(platform,name,len(items))
+            out.extend(items)
+        except Exception as e: print(platform,name,str(e)[:200])
+    return out
+
 def google():
-    return rss("GOOGLE","https://blog.google/products/ads-commerce/rss/")
+    return collect_sources("GOOGLE",[
+        ("한국어 공지",lambda:dated_page("GOOGLE","https://support.google.com/google-ads/announcements/9048695?hl=ko",r"/google-ads/answer/\d+"),False),
+        ("한국어 제품",lambda:dated_page("GOOGLE","https://business.google.com/kr/accelerate/announcements/",r"/kr/accelerate/(?:announcements|resources)/.+"),False),
+        ("정책",lambda:dated_page("GOOGLE","https://support.google.com/adspolicy/announcements/9048695?hl=ko",r"/adspolicy/answer/\d+"),False),
+        ("글로벌",lambda:rss("GOOGLE","https://blog.google/products/ads-commerce/rss/"),True)])
 
 def meta():
-    return rss("META","https://www.facebook.com/business/news/rss/")
+    return collect_sources("META",[
+        ("한국어",lambda:dated_page("META","https://about.fb.com/ko/news/",r"/ko/news/20\d{2}/\d{2}/.+"),True),
+        ("글로벌",lambda:rss("META","https://www.facebook.com/business/news/rss/"),True)])
 
 def update():
     data=load(); old={n["id"]:n for n in data.get("notices",[])}
