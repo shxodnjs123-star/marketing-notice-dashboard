@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 10:29:55 KST",
+  "updated_at": "2026-11-20 10:47:16 KST",
   "notices": [
     {
       "platform": "REPORT",
@@ -1436,11 +1436,71 @@
     },
     {
       "platform": "GOOGLE",
+      "id": "293335e7f7d544b531e6",
+      "title": "Google Marketing Live 2026의 Accelerate with Google에서 발표된 내용 확인하기",
+      "category": "한국어 공식 공지",
+      "date": "2026-05-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-17100114",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "077aeb409a0dc8647201",
+      "title": "Google Ads 서비스 약관의 중요 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2026-04-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16875158",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
       "id": "82784b771bcfe16f375c",
       "title": "Google Ads의 Veo를 사용해 가장 중요한 YouTube 잠재고객에게 도달하세요",
       "category": "한국어 공식 공지",
       "date": "2026-03-24",
       "url": "https://business.google.com/kr/accelerate/announcements/veo-google-ads/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1b9ad7fb9a5c65737131",
+      "title": "2025년에 출시된 Google Ads 관련 주요 기능",
+      "category": "한국어 공식 공지",
+      "date": "2025-12-08",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16756291",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "30e8030be431e4590e15",
+      "title": "개선된 성과 증분 테스트로 미디어 측정 및 ROI를 더욱 명확하게 확인하세요.",
+      "category": "한국어 공식 공지",
+      "date": "2025-11-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16719772",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a8d7e7bfcf3ecfcd0482",
+      "title": "YouTube 피드 및 디스커버를 위한 새로운 브랜드 적합성 관리 기능",
+      "category": "한국어 공식 공지",
+      "date": "2025-11-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16713852",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a098138f6409046cc16d",
+      "title": "실적 최대화 캠페인에서 새로운 인벤토리 및 채널 실적 보고서 사용하기",
+      "category": "한국어 공식 공지",
+      "date": "2025-11-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16710258",
       "read": false,
       "important": false
     },
@@ -1456,11 +1516,51 @@
     },
     {
       "platform": "GOOGLE",
+      "id": "8de709f7000f4dca1974",
+      "title": "조치 필요: 전화 유도 광고에서 전화번호 확장 소재로 전환",
+      "category": "한국어 공식 공지",
+      "date": "2025-10-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16598240",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
       "id": "5cef4215e2c27e55183f",
       "title": "Google Ads에서 웹 및 앱 광고를 연결하는 새로운 기능",
       "category": "한국어 공식 공지",
       "date": "2025-09-05",
       "url": "https://business.google.com/kr/accelerate/announcements/new-features-to-connect-your-web-and-app-advertising-in-google-ads/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "082b980cb8b292b147bc",
+      "title": "Google Ads에서 웹 및 앱 광고를 연결하는 새로운 기능",
+      "category": "한국어 공식 공지",
+      "date": "2025-09-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16501674",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "4676fc110b241e18f508",
+      "title": "스캠 광고 신고 기능 확대 및 브랜드 권리 보호 위한 주요 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2025-08-11",
+      "url": "https://about.fb.com/ko/news/2025/08/introducing-new-updates-to-brand-rights-protection-including-expanding-scam-ad-reporting/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7cb7221cd914ce9c9fa7",
+      "title": "실적 최대화 캠페인의 가시성과 관리 기능이 강화되었습니다",
+      "category": "한국어 공식 공지",
+      "date": "2025-08-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16451273",
       "read": false,
       "important": false
     },
@@ -1486,11 +1586,61 @@
     },
     {
       "platform": "GOOGLE",
+      "id": "221ff7905de6b2b97c83",
+      "title": "이제 디맨드젠 캠페인에서 YouTube 후속 조회수 최적화를 사용할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2025-06-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16323381",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a13a1f777f058f44b7ad",
+      "title": "Google Marketing Live 2025: 발표 내용 요약",
+      "category": "한국어 공식 공지",
+      "date": "2025-05-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16290177",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "bb822df85c5c399adea0",
+      "title": "광고주용 Google 태그 게이트웨이로 전환 측정 및 광고 실적 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2025-05-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16214371",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
       "id": "5fb9343b5980584ae71a",
       "title": "광고주용 Google 태그 게이트웨이로 전환 측정 및 광고 실적 개선하기",
       "category": "한국어 공식 공지",
       "date": "2025-05-02",
       "url": "https://business.google.com/kr/accelerate/announcements/enhance-your-conversion-measurement-and-ad-performance-with-google-tag-gateway-for-advertisers/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "059644ea6e20cabcd64b",
+      "title": "이제 미국에서 디맨드젠 캠페인에 새로운 빠른 결제 환경을 사용할 수 있습니다.",
+      "category": "한국어 공식 공지",
+      "date": "2025-04-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16218300",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "ca73affbe5f5160b86b4",
+      "title": "Meta Advantage+ 빠르게 이해하기",
+      "category": "한국어 공식 공지",
+      "date": "2025-04-23",
+      "url": "https://about.fb.com/ko/news/2025/04/meta-advantage-explained-in-two-minutes/",
       "read": false,
       "important": false
     },
@@ -1506,11 +1656,31 @@
     },
     {
       "platform": "GOOGLE",
+      "id": "4c312931e5beabf4d396",
+      "title": "페이지 하단의 검색 광고 관련성 개선",
+      "category": "한국어 공식 공지",
+      "date": "2025-04-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16206862",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
       "id": "6dc722c64c502ee8ec6b",
       "title": "실적 최대화 캠페인에 더 많은 목표 및 이미지 관리 기능이 추가됩니다",
       "category": "한국어 공식 공지",
       "date": "2025-04-09",
       "url": "https://business.google.com/kr/accelerate/announcements/more-goals-and-image-controls-coming-to-performance-max/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1e79628c2fbe18894d87",
+      "title": "실적 최대화 캠페인에 더 많은 목표 및 이미지 관리 기능이 추가됩니다",
+      "category": "한국어 공식 공지",
+      "date": "2025-04-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-16127398",
       "read": false,
       "important": false
     },
@@ -1525,6 +1695,46 @@
       "important": false
     },
     {
+      "platform": "GOOGLE",
+      "id": "2cc6c294e89c76c84d53",
+      "title": "확장 소재의 유연성을 높여 AI 기반 검색 광고의 실적 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2025-02-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15967262",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "33c46af88784b6a696ab",
+      "title": "앱의 오프라인 전환 가져오기(OCI)에 대한 조치 필요",
+      "category": "한국어 공식 공지",
+      "date": "2025-02-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15907017",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "cdcba685b23139088d87",
+      "title": "Meta 광고 상품의 생성형 AI 투명성 강화",
+      "category": "한국어 공식 공지",
+      "date": "2025-02-04",
+      "url": "https://about.fb.com/ko/news/2025/02/meta-genai-transparency/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "a2e0902629f537e35d34",
+      "title": "Threads 광고 도입: 빠르게 성장 중인 커뮤니티로 캠페인 도달 범위를 확장해 보세요",
+      "category": "한국어 공식 공지",
+      "date": "2025-01-24",
+      "url": "https://about.fb.com/ko/news/2025/01/introducing-ads-in-threads/",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "NAVER",
       "id": "508e0458320c9efda005",
       "title": "중요 네이버 성과형 디스플레이 광고 노출 지면 및 집행 가이드 안내 디스플레이 광고 2024-12-09",
@@ -1533,28 +1743,3738 @@
       "url": "https://ads.naver.com/notice/18005?searchValue=&page=1",
       "read": false,
       "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "be7cd0a77f672693150b",
+      "title": "2024년 Google Ads 요약",
+      "category": "한국어 공식 공지",
+      "date": "2024-11-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15639790",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ca26fd314d570b24ac2a",
+      "title": "새로운 실적 최대화 캠페인 기능: 확장 소재 실험, 자동 개선 기능으로 생성된 동영상 등",
+      "category": "한국어 공식 공지",
+      "date": "2024-10-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15535462",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4824a17e60fb65b1508a",
+      "title": "간소화된 동영상 실험으로 광고 소재의 영향력을 측정하세요",
+      "category": "한국어 공식 공지",
+      "date": "2024-10-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15449034",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3c0175a0a0980368bbb3",
+      "title": "이제 Display & Video 360에서 YouTube 전반에 걸쳐 사용할 수 있는 최상위 게재를 통해 타겟층이 가장 먼저 보는 인스트림 광고를 게재해 보세요.",
+      "category": "한국어 공식 공지",
+      "date": "2024-09-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15398279",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "72f6053ede883188b951",
+      "title": "YouTube 스튜디오에서 새로운 웹사이트 방문 목표 사용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2024-09-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15107395",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4b2cda8e9efcf9d42a78",
+      "title": "새로운 도구로 퍼스트 파티 데이터 전략 강화",
+      "category": "한국어 공식 공지",
+      "date": "2024-08-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15306140",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a678fda825520dd74a09",
+      "title": "Google AI로 연말연시 및 그 이후를 위해 최적화하기 위한 주요 팁",
+      "category": "한국어 공식 공지",
+      "date": "2024-08-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15302774",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "31643221b8701bd2accc",
+      "title": "YouTube 커넥티드 TV에서 광고 시점 수가 줄고 사용자 참여도가 높아짐",
+      "category": "한국어 공식 공지",
+      "date": "2024-08-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15270619",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e4290cae516d76501bb2",
+      "title": "개학 시즌에 판매량을 극대화하는 4가지 팁",
+      "category": "한국어 공식 공지",
+      "date": "2024-07-25",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15173390",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c5ae1a19d3babf247423",
+      "title": "개인 정보 보호 샌드박스 API를 사용한 디스플레이 광고 실험 결과",
+      "category": "한국어 공식 공지",
+      "date": "2024-07-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15192137",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e7da51337c7665941834",
+      "title": "검색어 매칭 업데이트를 통해 검색의 실적 극대화하기",
+      "category": "한국어 공식 공지",
+      "date": "2024-06-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15070437",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "604a99768b7ae54fe364",
+      "title": "교차 미디어 도달범위 소개",
+      "category": "한국어 공식 공지",
+      "date": "2024-06-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-15099046",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "8a95e1c7d1c271c5c770",
+      "title": "Google Ads의 브랜드 추천 소개",
+      "category": "한국어 공식 공지",
+      "date": "2024-06-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14997100",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "515f03c26cff331d4837",
+      "title": "새 Google Ads 디자인으로의 전환 완료",
+      "category": "한국어 공식 공지",
+      "date": "2024-05-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14846754",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d3a2657bcb2f5fb856bb",
+      "title": "Google Marketing Live 2024: 발표 내용 요약",
+      "category": "한국어 공식 공지",
+      "date": "2024-05-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14835145",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "8c3cd42e532f6d6a7eab",
+      "title": "Google I/O 2024: 모두에게 유용한 AI 개발",
+      "category": "한국어 공식 공지",
+      "date": "2024-05-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14920972",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "1de15d730d676d523609",
+      "title": "Meta, 국내 Facebook 이용자를 위한 개인정보 보호 인식 캠페인 전개",
+      "category": "한국어 공식 공지",
+      "date": "2024-05-13",
+      "url": "https://about.fb.com/ko/news/2024/05/privacyawarenessweek/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "481f8042e11fa78852dc",
+      "title": "실적 최대화 캠페인으로 성공을 달성하기 위한 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2024-04-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14817268",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "e7f86fd3d87401189819",
+      "title": "사칭 광고에 대한 Meta의 대응 및 노력",
+      "category": "한국어 공식 공지",
+      "date": "2024-04-05",
+      "url": "https://about.fb.com/ko/news/2024/04/measures-and-efforts-against-impersonation-ads/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fadae6fde57a8e182b47",
+      "title": "올봄 쇼핑 시즌에 매출 증대 및 쇼핑객 참여 유도를 위해 AR 및 VR 기능을 이용해 보세요",
+      "category": "한국어 공식 공지",
+      "date": "2024-02-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14627170",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "baf7d05f11e59b039e0c",
+      "title": "호텔 캠페인을 위한 지속 가능하고 효과적인 입찰 전략 수립",
+      "category": "한국어 공식 공지",
+      "date": "2024-02-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14556671",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "aacb4bc096bebfd1db54",
+      "title": "새로운 확장 소재 변경사항으로 AI 기반 검색 광고의 실적 높이기",
+      "category": "한국어 공식 공지",
+      "date": "2024-02-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14506789",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9e6fdf9ac311eac52506",
+      "title": "동의 모드를 이용해 개인 정보 보호 및 규제 변화에 대응하기",
+      "category": "한국어 공식 공지",
+      "date": "2024-01-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14505993",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7c19a3f4354487d99b05",
+      "title": "Google Ads에서 예약 광고를 구매하는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2023-12-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14325856",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f1c673df2cac7a4a4b95",
+      "title": "광고 시점을 줄여 개선된 스트리밍 환경 구축하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-12-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14314822",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0302a0d4d13270fec066",
+      "title": "앱에서의 Google Ads 구매 행동에 대한 추가 정보",
+      "category": "한국어 공식 공지",
+      "date": "2023-12-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14323893",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "58c1d3236915ec6347cf",
+      "title": "동영상 도달범위 캠페인에서 새로 제공되는 형식으로 인지도를 극대화하세요",
+      "category": "한국어 공식 공지",
+      "date": "2023-12-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14295416",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "fd40baf0c1dafc6a1bc7",
+      "title": "Meta, 한국소비자원과 함께 크리에이터 대상 ‘올바른 온라인 표시·광고 지침’ 교육",
+      "category": "한국어 공식 공지",
+      "date": "2023-11-29",
+      "url": "https://about.fb.com/ko/news/2023/11/meta-%ed%95%9c%ea%b5%ad%ec%86%8c%eb%b9%84%ec%9e%90%ec%9b%90%ea%b3%bc-%ed%95%a8%ea%bb%98-%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%84%b0-%eb%8c%80%ec%83%81-%ec%98%ac%eb%b0%94%eb%a5%b8-%ec%98%a8/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e22f1d2154d3eca28bae",
+      "title": "가장 가치 있는 잠재고객과 소통하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-11-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14226510",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "580e2c80a0f15905e190",
+      "title": "실적 최대화 캠페인의 검색 테마로 관련성 높은 트래픽 더 확보하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-10-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14179631",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "39cb56a7fdb0d0e62877",
+      "title": "이제 전 세계에서 이용 가능한 YouTube의 동영상 조회수 획득 캠페인을 사용하여 예산 내에서 조회수를 극대화하세요",
+      "category": "한국어 공식 공지",
+      "date": "2023-09-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14078653",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7eabfe5664e388f6440e",
+      "title": "검색 광고용 AI 기반 도구로 창의성 발휘하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-09-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-14079753",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ab40caba1a1aafdddd24",
+      "title": "Google Ads의 앱 실시간 입찰로의 전환에 관한 추가 정보",
+      "category": "한국어 공식 공지",
+      "date": "2023-09-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13998994",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "42dd74c745ace1042d68",
+      "title": "광고주를 지원하고 사용자와 신뢰 관계를 구축하기 위한 새 정책",
+      "category": "한국어 공식 공지",
+      "date": "2023-08-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13986050",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9872ec797263ec36db50",
+      "title": "새로운 광고 및 통계 기능으로 연말연시 실적을 높이세요",
+      "category": "한국어 공식 공지",
+      "date": "2023-08-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13844604",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "c2da5750c3a08e906cb8",
+      "title": "Meta, CJ올리브영과 마케팅 솔루션 강화 및 상생 위한 JBP 체결",
+      "category": "한국어 공식 공지",
+      "date": "2023-08-22",
+      "url": "https://about.fb.com/ko/news/2023/08/meta-cj%ec%98%ac%eb%a6%ac%eb%b8%8c%ec%98%81%ea%b3%bc-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%86%94%eb%a3%a8%ec%85%98-%ea%b0%95%ed%99%94-%eb%b0%8f-%ec%83%81%ec%83%9d-%ec%9c%84%ed%95%9c-jbp-%ec%b2%b4%ea%b2%b0/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "35d19bdc716b6626cd73",
+      "title": "디스커버리 광고를 디맨드젠 캠페인으로 업그레이드할 수 있도록 준비하세요",
+      "category": "한국어 공식 공지",
+      "date": "2023-08-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13859703",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7afcb7511355651c8175",
+      "title": "앱 캠페인 실적을 개선하기 위한 새로운 Google 애널리틱스 4 기능",
+      "category": "한국어 공식 공지",
+      "date": "2023-08-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13780704",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1b0ee49c5fd88a4c61f2",
+      "title": "2024년 1월 16일부터 Google 애드센스, Ad Manager, AdMob 및 EEA/영국 사용자를 위한 Google 입찰을 지원하는 플랫폼을 통해 Google 광고 게재 시 Google 인증 IAB TCF CMP를 사용해야 함",
+      "category": "한국어 공식 공지",
+      "date": "2023-08-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13821195",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "28cb4cc2b6da5158828b",
+      "title": "실적 최대화 캠페인에서 검색 및 디스플레이 실적 높이기",
+      "category": "한국어 공식 공지",
+      "date": "2023-07-25",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13780156",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "82108926f6ca18b09ac3",
+      "title": "새로운 Z세대 음악 라인업으로 다양한 형식과 기기에서 Z세대 음악 애호가에게 도달하세요",
+      "category": "한국어 공식 공지",
+      "date": "2023-07-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13743412",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "51cf526fda51e144f512",
+      "title": "시기 업데이트: 첫 번째 클릭, 선형, 시간 가치 하락, 시점 기반 기여 분석 모델 지원 중단",
+      "category": "한국어 공식 공지",
+      "date": "2023-06-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13695100",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "127ed6969a80b65a6e8c",
+      "title": "이제 실적 최대화 캠페인에서 매장 판매 보고 및 입찰을 사용할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2023-06-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13653562",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "163406c59f53ab1a47cd",
+      "title": "앱 캠페인의 지속적 개선",
+      "category": "한국어 공식 공지",
+      "date": "2023-06-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13685893",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b61ca622866c696033d8",
+      "title": "새로운 Google Ads 디자인 테스트 결과 발표",
+      "category": "한국어 공식 공지",
+      "date": "2023-06-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13570840",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ea18ee89f671ea4716e8",
+      "title": "Google Marketing Live 2023: 소매업체를 위해 특별히 설계된 혁신을 통한 판매량 증대",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13598798",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c614103fd8d703c08ff2",
+      "title": "Google Marketing Live 2023: 알아야 할 모든 것",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13579260",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b2990ad88ec28f9b2730",
+      "title": "Google Marketing Live 2023: Display & Video 360에서 새로운 기능 활성화하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13603725",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9a848a1a1b65ba023ec3",
+      "title": "Google Marketing Live 2023: 검색 및 실적 최대화 캠페인으로 성과 증대하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13602916",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "8e73284ccd8de7aee487",
+      "title": "Google Marketing Live 2023: 측정 기반을 개선하여 비즈니스 성과 향상",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13603927",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "73e155afdcddc6874e8a",
+      "title": "Google Marketing Live 2023: 앱으로 성장 가속화하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13603121",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2eecafb5b92d551ee7a3",
+      "title": "Google Marketing Live 2023: Google AI 및 적합성 솔루션을 통한 YouTube 캠페인 개선",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13603926",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "549747bfd72bdc033412",
+      "title": "Meta, AI 기반 새로운 마케팅 솔루션 도입",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-12",
+      "url": "https://about.fb.com/ko/news/2023/05/meta-ai-%ea%b8%b0%eb%b0%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%86%94%eb%a3%a8%ec%85%98-%eb%8f%84%ec%9e%85/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3b17478644b65edb1ae5",
+      "title": "Google I/O: 모두에게 유용한 AI 개발",
+      "category": "한국어 공식 공지",
+      "date": "2023-05-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13571968",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fe0dd42ae528d4f07596",
+      "title": "첫 번째 클릭, 선형, 시간 가치 하락, 시점 기반 기여 분석 모델이 지원 중단됩니다",
+      "category": "한국어 공식 공지",
+      "date": "2023-04-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13427716",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2683fb6250875098567b",
+      "title": "디스커버리 광고를 사용해 수요를 늘리는 데 도움이 되는 새로운 기능",
+      "category": "한국어 공식 공지",
+      "date": "2023-03-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13404405",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "405b374d72ff8419c5ba",
+      "title": "여행 목표 중심의 실적 최대화 캠페인으로 더 많은 고객에게 도달하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-03-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13386811",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0b6c65b0404fb5976536",
+      "title": "워크플로 개선을 위한 새로운 디자인 테스트",
+      "category": "한국어 공식 공지",
+      "date": "2023-03-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13342657",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d15066ee076ec53ccec7",
+      "title": "YouTube의 마스트헤드를 구매하고 측정하는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2023-03-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13372851",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f6a6c78ea63edab0c647",
+      "title": "새로운 도구로 검색 광고의 위력 활용하기",
+      "category": "한국어 공식 공지",
+      "date": "2023-02-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13352636",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "723bbf53031f1d490179",
+      "title": "실적 최대화 캠페인의 새로운 기능",
+      "category": "한국어 공식 공지",
+      "date": "2023-02-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13311048",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "4595abe02ed86e6fb02f",
+      "title": "Meta의 광고 투명성 제고를 위한 노력",
+      "category": "한국어 공식 공지",
+      "date": "2023-02-15",
+      "url": "https://about.fb.com/ko/news/2023/02/meta%ec%9d%98-%ea%b4%91%ea%b3%a0-%ed%88%ac%eb%aa%85%ec%84%b1-%ec%a0%9c%ea%b3%a0%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%85%b8%eb%a0%a5/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7158b39a59fb0a7a71e4",
+      "title": "광고 개인 정보 보호 허브로 실적 측정 효과 높이기",
+      "category": "한국어 공식 공지",
+      "date": "2023-02-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13277270",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "8ef112e75d47e71b2182",
+      "title": "2023년을 관통할 디지털마케팅 트렌드",
+      "category": "한국어 공식 공지",
+      "date": "2023-02-02",
+      "url": "https://about.fb.com/ko/news/2023/02/2023%eb%85%84%ec%9d%84-%ea%b4%80%ed%86%b5%ed%95%a0-%eb%94%94%ec%a7%80%ed%84%b8%eb%a7%88%ec%bc%80%ed%8c%85-%ed%8a%b8%eb%a0%8c%eb%93%9c/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "a00ced734a1cb0c80422",
+      "title": "광고 경험 관련 청소년 보호 정책 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2023-01-10",
+      "url": "https://about.fb.com/ko/news/2023/01/%ea%b4%91%ea%b3%a0-%ea%b2%bd%ed%97%98-%ea%b4%80%eb%a0%a8-%ec%b2%ad%ec%86%8c%eb%85%84-%eb%b3%b4%ed%98%b8-%ec%a0%95%ec%b1%85-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "bb4ff70f5a184e25d8b1",
+      "title": "Meta, 배우 정호연과 함께 한 ‘모든 것이 내 세상’ 캠페인 영상 공개",
+      "category": "한국어 공식 공지",
+      "date": "2022-12-01",
+      "url": "https://about.fb.com/ko/news/2022/12/meta-%eb%b0%b0%ec%9a%b0-%ec%a0%95%ed%98%b8%ec%97%b0%ea%b3%bc-%ed%95%a8%ea%bb%98-%ed%95%9c-%eb%aa%a8%eb%93%a0-%ea%b2%83%ec%9d%b4-%eb%82%b4-%ec%84%b8%ec%83%81-%ec%ba%a0%ed%8e%98/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "064f31b094a436930ec7",
+      "title": "불확실성을 극복하는 방법",
+      "category": "한국어 공식 공지",
+      "date": "2022-11-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12993878",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1311d0c601b849afc9a6",
+      "title": "도달범위 플래너의 동영상 액션 캠페인 실적 예측하기",
+      "category": "한국어 공식 공지",
+      "date": "2022-11-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12979720",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "83da57832899c6f017b0",
+      "title": "Google 광고 플랫폼에 지속 가능하고 효과적인 잠재고객 전략 구축",
+      "category": "한국어 공식 공지",
+      "date": "2022-11-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12929853",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "c34d9aa6cdd6875b73c6",
+      "title": "Meta, ‘Meta 마케팅 서밋 2022’ 성황리에 마쳐",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-28",
+      "url": "https://about.fb.com/ko/news/2022/10/%eb%a9%94%ed%83%80-%eb%a9%94%ed%83%80-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%9c%eb%b0%8b-2022-%ec%84%b1%ed%99%a9%eb%a6%ac%ec%97%90-%eb%a7%88%ec%b3%90/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f43edf341fbbe869314c",
+      "title": "이제 Google Ads에서 팟캐스트 라인업을 사용하세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12921482",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b08ae691af305000546b",
+      "title": "머신러닝 도구를 사용해 동영상을 잘라 6초 범퍼 광고 만들기",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12921529",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "8be6db047220b7ec588a",
+      "title": "다가오는 연말연시 시즌에 도움이 되는 새로운 실적 최대화 기능",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12926236",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "954d51871b723a9922f7",
+      "title": "YouTube에서 청취자의 참여를 유도할 수 있는 오디오 광고 출시",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12920511",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "5a6ca2d13b3515c2e349",
+      "title": "Meta, ‘모든 것이 내 세상’ 캠페인 런칭",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-21",
+      "url": "https://about.fb.com/ko/news/2022/10/meta-%eb%aa%a8%eb%93%a0-%ea%b2%83%ec%9d%b4-%eb%82%b4-%ec%84%b8%ec%83%81-%ec%ba%a0%ed%8e%98%ec%9d%b8-%eb%9f%b0%ec%b9%ad/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e591b199e6643b4aa2ec",
+      "title": "음악 분위기 라인업으로 잠재고객의 기분을 파악하세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12867999",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e802e35c87218771e46f",
+      "title": "이제 Google Ads에서 시즌별 동영상 광고 템플릿을 사용해 보세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12847010",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0b13f67269eb6e1ab184",
+      "title": "새로운 보고 열을 사용하여 전환을 더 정확하게 파악하기",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12849470",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "45ff8a36e25d2c1bc59d",
+      "title": "비즈니스 정보를 추가하여 더 효과적인 검색 광고를 게재하세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12834372",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a5168077c525d64974ce",
+      "title": "현재는 물론 미래에도 유용하도록 모바일 앱을 성장시키세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12791813",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "aac00bf06d5f05d50503",
+      "title": "추천의 영향을 측정하는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12777458",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "01057c7465d8505681f3",
+      "title": "타겟 ROAS 입찰을 사용하여 인앱 광고와 상호작용할 가능성이 높은 사용자를 획득하세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-10-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12801171",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "26e00d58ba8b8c1de9d7",
+      "title": "자동 적용된 추천을 더 쉽게 관리하는 방법",
+      "category": "한국어 공식 공지",
+      "date": "2022-09-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12650226",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7c9188ab18da4ef50f9f",
+      "title": "매장 방문 및 매장 판매의 가치를 정하는 새로운 도구를 이용해 스마트 자동 입찰을 더 효과적으로 관리하기",
+      "category": "한국어 공식 공지",
+      "date": "2022-08-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12487857",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "99ab93a0320f673894f8",
+      "title": "차량 광고가 차량 피드를 사용한 실적 최대화 캠페인으로 업그레이드됩니다.",
+      "category": "한국어 공식 공지",
+      "date": "2022-08-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13837303",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fe80f341d44407e1f4ed",
+      "title": "알림: 지역 캠페인을 실적 최대화 캠페인으로 업그레이드하세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-08-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12494107",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c7bbd1ac767d63d362dc",
+      "title": "디스커버리 광고를 통해 모든 시즌에 잠재고객과 소통하기",
+      "category": "한국어 공식 공지",
+      "date": "2022-08-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12414324",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "607b2ee81bc70f8477c8",
+      "title": "알림: 스마트 쇼핑 캠페인을 실적 최대화 캠페인으로 업그레이드하세요",
+      "category": "한국어 공식 공지",
+      "date": "2022-07-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12368488",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a729d340c701a3febfb8",
+      "title": "Google Ads의 새로운 텍스트 음성 변환 기능으로 모든 동영상 광고에 보이스오버를 제공합니다",
+      "category": "한국어 공식 공지",
+      "date": "2022-07-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12383985",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c3582ee16d196dc99589",
+      "title": "실적 최대화 캠페인을 맞춤설정하고 개선하는 데 도움이 되는 새로운 기능",
+      "category": "한국어 공식 공지",
+      "date": "2022-07-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12351101",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ab4bf35c94bc86cbe7d4",
+      "title": "진단 통계를 활용하여 캠페인을 성공으로 이끌기",
+      "category": "한국어 공식 공지",
+      "date": "2022-07-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12330274",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fb01f546363dc667fc57",
+      "title": "검색 및 실적 최대화 캠페인의 새로운 브랜드 설정",
+      "category": "한국어 공식 공지",
+      "date": "2022-06-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-13729701",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d9679384e13d26286057",
+      "title": "여행 제품을 통한 인지도 향상 및 늘어난 수요 포착",
+      "category": "한국어 공식 공지",
+      "date": "2022-06-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12237341",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d772d7239bc4af2a76f4",
+      "title": "알림: 2022년 6월 30일, 확장 텍스트 광고의 생성 및 수정에 대한 지원 종료 예정",
+      "category": "한국어 공식 공지",
+      "date": "2022-06-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12169708",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ed6cf9b4cf4e5ae4728e",
+      "title": "Google Marketing Live 2022 제품 발표 내용 요약",
+      "category": "한국어 공식 공지",
+      "date": "2022-05-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12158560",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4756dec2435642b2b12c",
+      "title": "Google Marketing Live 2022에서 소개된 소매업 및 쇼핑 기능",
+      "category": "한국어 공식 공지",
+      "date": "2022-05-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12172007",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "169c54e2ecf4bef88203",
+      "title": "새로운 Google Ads 스크립트 환경 시작하기",
+      "category": "한국어 공식 공지",
+      "date": "2022-05-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12134022",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "df423b97b84ee3ab923e",
+      "title": "Google I/O: 알아야 할 모든 정보",
+      "category": "한국어 공식 공지",
+      "date": "2022-05-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12164964",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0979729bf7cbcbd63f08",
+      "title": "신규 고객을 유치하기 위한 새로운 실적 최대화 기능",
+      "category": "한국어 공식 공지",
+      "date": "2022-04-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12117037",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2155a6f472e56eb82f2d",
+      "title": "맞춤 열을 만드는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2022-04-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12041700",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b0c63a2c8b2c16411c3d",
+      "title": "관리자 계정 대시보드에서 계정 전체의 실적 검토하기",
+      "category": "한국어 공식 공지",
+      "date": "2022-04-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12058495",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b7718653743b53f6d990",
+      "title": "Google Ads 에디터 2.0: 실적 최대화 캠페인, 전환 목표 등 지원",
+      "category": "한국어 공식 공지",
+      "date": "2022-03-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-12010250",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "META",
+      "id": "f2396207b698225f1e85",
+      "title": "Meta, ‘2022 게임 마케팅 인사이트 보고서’ 발표",
+      "category": "한국어 공식 공지",
+      "date": "2022-03-03",
+      "url": "https://about.fb.com/ko/news/2022/03/%eb%a9%94%ed%83%80-2022-%ea%b2%8c%ec%9e%84-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9d%b8%ec%82%ac%ec%9d%b4%ed%8a%b8-%eb%b3%b4%ea%b3%a0%ec%84%9c-%eb%b0%9c%ed%91%9c/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "66e0c5627205ae4ad6c9",
+      "title": "알림: 확장 텍스트 광고의 생성 및 수정에 대한 지원이 2022년 6월 30일에 종료됩니다.",
+      "category": "한국어 공식 공지",
+      "date": "2022-03-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11777352",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "57b2e8436d1e37253f52",
+      "title": "오프라인 전환을 더 쉽게 가져오는 방법",
+      "category": "한국어 공식 공지",
+      "date": "2022-03-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11909980",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6cba5a9519fd7fa4416b",
+      "title": "주제: 관심 기반 광고를 위한 새로운 개인 정보 보호 샌드박스 제안서",
+      "category": "한국어 공식 공지",
+      "date": "2022-02-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11899856",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4d48396864650f58cb0b",
+      "title": "광고 확장을 개선하여 사용자의 관심을 더 많이 끌 수 있는 검색 광고 게재하기",
+      "category": "한국어 공식 공지",
+      "date": "2022-02-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11394461",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5831b6d78eba288a4c7d",
+      "title": "Google 파트너: 더 나은 서비스 제공을 위한 파트너십 발전",
+      "category": "한국어 공식 공지",
+      "date": "2022-02-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11528008",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a1b1b360d87ff6423194",
+      "title": "추천을 활용하여 더 많은 기회 찾기",
+      "category": "한국어 공식 공지",
+      "date": "2022-01-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11584803",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "44123fab01e20128d0e3",
+      "title": "실적 최대화 캠페인에 대한 스마트 쇼핑 및 지역 캠페인 업그레이드에 대해 자세히 알아보기",
+      "category": "한국어 공식 공지",
+      "date": "2022-01-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11576060",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "581ed8997740d15ec571",
+      "title": "더욱 신뢰할 수 있는 테스트 결과를 더 쉽게 확인할 수 있는 새 실험 페이지",
+      "category": "한국어 공식 공지",
+      "date": "2022-01-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11553815",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ada147e1015d431c9d92",
+      "title": "Apache Log4j 2 취약점",
+      "category": "한국어 공식 공지",
+      "date": "2021-12-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11471400",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c78ca7ba4d9c3101c418",
+      "title": "새로운 개선사항이 포함된 이미지 광고 확장 최대한 활용하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-12-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11430278",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "98437b9b04468cf271cd",
+      "title": "Google Ads API로 업그레이드하여 더욱 다양한 기능을 사용하세요",
+      "category": "한국어 공식 공지",
+      "date": "2021-12-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11417851",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5906f088f728dce669af",
+      "title": "통계 페이지의 새로운 기능으로 실적 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-12-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11418575",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "926fe3c17775a63c9dda",
+      "title": "실적 플래너를 사용하여 계정 전반에서 계획 수립하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11394472",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "252c192883c802247bcb",
+      "title": "이동 중에도 수요에 대응하는 데 도움이 되는 통계와 기능 더 알아보기",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11348808",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "437a8719e17917240562",
+      "title": "YouTube 동영상 디스커버리 광고가 인피드 동영상 광고로 변경됨",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11372787",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0f8151dea03d18c3fc2e",
+      "title": "이제 고객 매치 타겟팅은 폭넓게 지원되고 사용이 더 쉬워집니다",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11129174",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c7ff22b1c1742b7f532f",
+      "title": "이제 더 많은 동영상 캠페인 유형에 제품 피드 사용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11371384",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b413f003afc753e28d5d",
+      "title": "Google Ads 에디터 1.8: 추천 자동 적용, 실적 통계 검토 등",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11366923",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "74306a4d153a42a1d1fa",
+      "title": "스마트 자동 입찰에 매장 판매를 추가하여 온라인 및 오프라인 매장 판매 늘리기",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11354538",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "269e2aac30f8ac44c28d",
+      "title": "실적 극대화 캠페인으로 Google 광고 채널 전반에서 전환 유도하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11335596",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b81d6120888f48ea466c",
+      "title": "전환을 관리하고 최적화하는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2021-11-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11335412",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "cb3b3806ff78273e5f71",
+      "title": "개발자팀과 협력하여 Google Play에 추가될 새로운 데이터 보안 섹션에 대비하세요",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11320787",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9af7abfb70407fb1091b",
+      "title": "연말연시에 대비해 Google에서 최적의 할인 제품을 게시하고 실적을 측정하기 위한 새로운 방법을 사용해 보세요.",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11256948",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f540c7ca8262c0a5bfc3",
+      "title": "Google Ads UI에서 Zapier 계정 연결",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11307652",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2e4692f9344f1401c663",
+      "title": "이제 전 세계에서 제공되는 동영상 도달범위 캠페인으로 도달범위와 효율성을 극대화하세요",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11320086",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a9a35459ba9cad747b5f",
+      "title": "연말연시 대비 캠페인 최적화에 도움이 되는 새로운 도구",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-25",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11301008",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "123e4b4a6ec2f0bf65e7",
+      "title": "참여 유도 앱 캠페인에서는 더 이상 수동 딥 링크가 필요하지 않습니다",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-25",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11287078",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "8fb7ecabf3faa7ae3f3c",
+      "title": "모바일 검색결과 관련 최근 변경사항 자세히 알아보기",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11213669",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1594260b91525c7a2f3b",
+      "title": "기후 변화에 대한 광고 및 수익 창출 정책 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2021-10-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11221321",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f6bca902ec89bee1ade3",
+      "title": "향상된 전환으로 실적 통계 확인하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-09-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11192862",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4ae463422ff21530956a",
+      "title": "새로운 예산 보고서로 캠페인 지출을 간편하게 이해하세요",
+      "category": "한국어 공식 공지",
+      "date": "2021-09-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11202082",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ce6452a94b01ee8389ac",
+      "title": "디스플레이에 게재되는 동영상 광고의 효과적인 측정 방법",
+      "category": "한국어 공식 공지",
+      "date": "2021-09-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11190044",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "aa848b76a74fb4add234",
+      "title": "액션 TrueView에서 동영상 액션 캠페인으로 업그레이드하기 위한 준비사항",
+      "category": "한국어 공식 공지",
+      "date": "2021-09-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11164539",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d74b6cd6670336b61aa5",
+      "title": "가장 관련성 높은 키워드를 모든 검색어에 매칭하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-09-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11180624",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e100d6d1e81dc7e62ed2",
+      "title": "사용자 개인 정보를 보호하면서 검색어 보고서 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-09-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11127882",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "afeb33ee7cf51d02ef8a",
+      "title": "배송 및 반품 옵션과 새로운 비즈니스 식별 속성으로 이번 연말연시에 내 상품과 서비스를 돋보이게 만들어 보세요",
+      "category": "한국어 공식 공지",
+      "date": "2021-08-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11084839",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "adc6ffafefffec0ebb85",
+      "title": "Google 검색에서 적절한 메시지를 더 쉽게 표시하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-08-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11031467",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "71721daeac35ac620486",
+      "title": "전환 가치 규칙을 통해 스마트 자동 입찰을 효과적으로 관리",
+      "category": "한국어 공식 공지",
+      "date": "2021-08-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10896317",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3fcb867b9bf8d1f06212",
+      "title": "기여 분석 모델이 이제 YouTube 및 디스플레이 광고를 지원합니다",
+      "category": "한국어 공식 공지",
+      "date": "2021-08-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-11010970",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "16ec9fe161abeedffd59",
+      "title": "Google Ads 에디터 1.7: 호텔 광고, YouTube 오디오 광고 등의 지원",
+      "category": "한국어 공식 공지",
+      "date": "2021-08-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10993987",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6f66100b8a822966cd9f",
+      "title": "온라인 및 오프라인 매장에서 신학기 쇼핑객에게 도달하세요",
+      "category": "한국어 공식 공지",
+      "date": "2021-07-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10986072",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3176c19bd16373885968",
+      "title": "스마트 자동 입찰 전략의 구성 방식 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2021-07-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10962171",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5b88fab55f881a09df49",
+      "title": "쇼핑 시즌에 최고의 할인 상품을 손쉽게 Google에 게시하고 상품기획 관련 통계를 발 빠르게 얻으세요",
+      "category": "한국어 공식 공지",
+      "date": "2021-07-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10897114",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f6933fc70dccb5bfea72",
+      "title": "반복적인 광고 정책 위반을 해결하기 위한 새로운 '경고' 시스템 시범 운영",
+      "category": "한국어 공식 공지",
+      "date": "2021-07-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10957124",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c5049b30e1efb5158a43",
+      "title": "18개 국가에서 도달범위 플래너를 사용하여 TV와 YouTube에서 잠재고객의 도달범위 극대화",
+      "category": "한국어 공식 공지",
+      "date": "2021-07-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10922815",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c220acb1ccc9f500d951",
+      "title": "더욱 쉽게 관리자 계정 만들기",
+      "category": "한국어 공식 공지",
+      "date": "2021-07-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10922538",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c6986eb5e3f16afea334",
+      "title": "광고 모음으로 더 나은 시청자 환경 구축하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-06-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10879439",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "aa0acc108f44e44a3f57",
+      "title": "알림: 새로운 변형 확장검색 키워드에 대한 지원 종료",
+      "category": "한국어 공식 공지",
+      "date": "2021-06-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10877504",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "cdf2ed502acd8f79e517",
+      "title": "동영상 액션 캠페인으로 업그레이드하여 결과 개선",
+      "category": "한국어 공식 공지",
+      "date": "2021-06-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10833639",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "61bd0d5c28033a8870ac",
+      "title": "이제 전 세계에서 관련 동영상 광고 확장 이용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2021-06-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10746067",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "36902ad8f8dfbc579ae9",
+      "title": "동영상 액션 캠페인으로 확장되는 최적화 점수",
+      "category": "한국어 공식 공지",
+      "date": "2021-06-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10773813",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9f0719f6b1f3fd100a11",
+      "title": "Google Marketing Livestream 2021에서 발표된 새로운 소식",
+      "category": "한국어 공식 공지",
+      "date": "2021-05-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10727844",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "44653dde2a35fee3c7d7",
+      "title": "이미지 광고 확장을 사용하여 흥미로운 검색 광고 게재하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-05-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10700789",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d28e546a2372cdb6ad69",
+      "title": "목표 달성을 돕기 위한 새로운 입찰 기능",
+      "category": "한국어 공식 공지",
+      "date": "2021-05-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10715180",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b3cd56a83bfafd8e0201",
+      "title": "고객 매치 타겟팅 목록 더욱 쉽게 사용하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10635537",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a832df45d7020faef9a2",
+      "title": "Apple의 새로운 ATT 정책 출시를 통한 파트너 지원",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10635155",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "06d82552d24e11164727",
+      "title": "타겟 광고 투자수익(ROAS) 입찰로 고가치 앱 사용자 유치하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10617884",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "278c421d8d83a10cf5e6",
+      "title": "스마트 자동 입찰 전략의 구성 방식이 변경됩니다",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10512715",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d204f001105b7aea0a8c",
+      "title": "광고주가 광고 게재 위치를 더욱 강력하게 관리할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10602822",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9b28af79ef91ab44455f",
+      "title": "자사 데이터를 이용한 측정을 지원하는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10591309",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d56237fb5a0319058299",
+      "title": "이제 전 세계 모든 광고주가 통계 페이지를 사용할 수 있습니다.",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10568762",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6bd80ca906edc227144e",
+      "title": "더 효율적으로 캠페인 최적화하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10525129",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ce72c0c0e15673e2a6a3",
+      "title": "실험을 통해 YouTube 광고 실적 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10547015",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "beb43eeb32134b32549a",
+      "title": "관리자 계정과 간편하게 리마케팅 목록 공유하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-04-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10572024",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fef6a09889a37911caac",
+      "title": "숙박 시설 프로모션 광고를 이용하여 리드를 호텔로 바로 유도",
+      "category": "한국어 공식 공지",
+      "date": "2021-03-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10541931",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1c5d9dc8d02348bc9b15",
+      "title": "Google Ads의 새로운 요약 보기 도입",
+      "category": "한국어 공식 공지",
+      "date": "2021-03-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10512774",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "540ebf822ec94c637332",
+      "title": "Google Ads 모바일 앱으로 계정 실적 확인하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-03-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10473551",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0cac8dff7bb113d23051",
+      "title": "파트너가 새 Google 파트너 프로그램을 준비하도록 지원",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10417534",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3147f22310f23c0b1e8f",
+      "title": "반응형 검색 광고를 사용하여 클릭수와 전환수 늘리기: 검색 캠페인의 새로운 기본 광고 유형",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10434300",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0b914bedea8a7cebcf23",
+      "title": "기여도 보고서에 이제 YouTube 및 디스플레이 광고 포함",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10436829",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b8a329cdc4045dc90686",
+      "title": "2021년 4월 30일까지 동영상 캠페인에 병렬 추적 적용",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10430691",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6245a2db54565a746924",
+      "title": "검색 광고에서 더 많은 리드 유도하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10364931",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a1445de129b2348a7ac3",
+      "title": "모든 동영상 캠페인에 전환 기여 분석 표준화 적용",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10399809",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "55018c7d45538969c548",
+      "title": "Google 검색 네크워크를 통해 관련성 높은 고객에게 더 쉽게 도달하는 방법",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10346549",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "90c930e339020da005b1",
+      "title": "포트폴리오 입찰 전략으로 여러 계정에서 입찰하기",
+      "category": "한국어 공식 공지",
+      "date": "2021-02-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10397693",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3b69de9139b14f22c22c",
+      "title": "Apple의 iOS 14 ATT 정책 업데이트에 대비하여 앱 개발자를 지원하기 위한 제안사항",
+      "category": "한국어 공식 공지",
+      "date": "2021-01-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10307993",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "646ba49e0f4f292c2b3b",
+      "title": "스마트 자동 입찰을 위한 새로운 데이터 제외 기능",
+      "category": "한국어 공식 공지",
+      "date": "2021-01-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10325809",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e57cc0c1745c7d99f85f",
+      "title": "유사 잠재고객의 예상 목록 크기 쉽게 확인하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-12-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10315890",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "bec46eeeeb35316e203e",
+      "title": "설명이 검색의 타겟 CPA 캠페인으로 확장됩니다",
+      "category": "한국어 공식 공지",
+      "date": "2020-12-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10307994",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3dd500919b8e7e021e96",
+      "title": "Google Ads 에디터 1.5: 광고 효력을 위한 새로운 도구, 추가 권장사항 지원 및 이미지 광고 확장",
+      "category": "한국어 공식 공지",
+      "date": "2020-12-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10307894",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "95e1aaa3ccf00e3638c1",
+      "title": "최적화 점수를 통해 캠페인 목표를 쉽게 확인할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2020-12-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10301538",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "55bf4470d19a8539b045",
+      "title": "참여 유도 앱 캠페인을 이제 자격을 갖춘 전 세계 모든 광고주가 사용할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2020-12-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10287275",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "35cc71302dd0d3b9fe13",
+      "title": "리드 양식 광고 확장으로 더 많은 고품질 리드 유도하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-12-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10283862",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "38f0a12f4f4534e2ce6d",
+      "title": "디스커버리 광고를 통해 연말연시에 '윈도우 쇼핑'을 하는 소비자의 관심 유도하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-12-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10269047",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1fc315d6dae83c2dfcc8",
+      "title": "통계 페이지를 통해 최신 트렌드 파악하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-11-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10262382",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6f491f95e925e2e11c18",
+      "title": "새롭게 개선된 기능으로 스마트 자동 입찰 최대한 활용하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-11-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10253778",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "cec8f87444498b0b8459",
+      "title": "입찰 통계 보고서가 보고서 편집기로 확장",
+      "category": "한국어 공식 공지",
+      "date": "2020-11-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10173728",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "27acaf5a4e4fae317573",
+      "title": "확장검색 및 스마트 자동 입찰로 비즈니스 성장 도모하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-11-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10198221",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "17a41d47e498c5275fac",
+      "title": "Google Sheets로 Google Ads 데이터 가져오기",
+      "category": "한국어 공식 공지",
+      "date": "2020-10-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10205181",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "09b212378dd28168a535",
+      "title": "Google Ads 계정을 Ads Data Hub에 연결하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-10-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10204978",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ea52b7f14e6e83a220c7",
+      "title": "클릭수 최대화를 위해 평균 일일예산으로 업데이트하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-10-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10192240",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3bb278b2b025177765fc",
+      "title": "보고서 편집기를 통해 손쉽게 실적 데이터 분석하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-10-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10191726",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "04f5ada5bbc8ea53a2bd",
+      "title": "효과적인 캠페인 설정을 위한 새 기능 및 알림",
+      "category": "한국어 공식 공지",
+      "date": "2020-10-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10191626",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "829fb7251cb612543330",
+      "title": "프로모션을 표시하는 새로운 기능을 통해 할인 상품을 찾는 고객에게 비즈니스 노출하기(미국만 해당)",
+      "category": "한국어 공식 공지",
+      "date": "2020-10-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10146009",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "73f2c17425fdb957f75c",
+      "title": "스마트 쇼핑 캠페인으로 실시간 연말연시 수요에 손쉽게 대응하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-10-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10153322",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "17918cfbb0ea4fe8bd05",
+      "title": "동영상 캠페인에 보다 유용한 게재빈도 보고서 만들기",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10093524",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0067bb0b359fd5258e52",
+      "title": "Google Ads API를 사용하여 대규모로 계정 관리하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10085782",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5855adf06e14b8cd1dd4",
+      "title": "도달범위 플래너의 TV를 지원하는 국가 확대",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10082536",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2d93cb6ea10526c0f02e",
+      "title": "YouTube 동적 라인업으로 보다 효율적으로 문맥 광고 확장하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10070012",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d9af6447367a9bf016dd",
+      "title": "맞춤 잠재고객으로 이상적인 고객에게 더 많이 도달하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10075331",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "88a2a77bbbf6d1b8d435",
+      "title": "광고 도착 페이지 보고서를 통해 클릭 후 실적 파악하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10071783",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d3415c6fe3fe68d0ca5a",
+      "title": "확대된 전환 카테고리 및 보고서",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10062782",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6568cdeec62b47704e2c",
+      "title": "급변하는 시장에서 오프라인 소비자에게 도달하는 방법",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10049877",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "63331bf3357bdf2d6af6",
+      "title": "더 쉽고 빠르게 위치 광고 확장을 만드는 방법",
+      "category": "한국어 공식 공지",
+      "date": "2020-09-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10049878",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ecba011fedd1b9beca84",
+      "title": "Google Ads 계정의 새 액세스 수준 및 계정 소유권",
+      "category": "한국어 공식 공지",
+      "date": "2020-08-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10029043",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "720a06c091d41940ca48",
+      "title": "새로운 실적 플래너 기능으로 예산 계획을 더 효율적으로 하세요",
+      "category": "한국어 공식 공지",
+      "date": "2020-08-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10013084",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fa87539e7d32d65f99df",
+      "title": "앱 캠페인에서 전환수 최대화 입찰로 빠르게 잠재고객 늘리기",
+      "category": "한국어 공식 공지",
+      "date": "2020-08-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10004851",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "86560088c88eb07ad8e2",
+      "title": "앱 캠페인의 이미지 요구사항 간소화",
+      "category": "한국어 공식 공지",
+      "date": "2020-08-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10012391",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3ea7ca00de108b0edde8",
+      "title": "Zapier를 사용하여 자동으로 고객 매치 타겟팅 업데이트하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-08-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-10007783",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1eb9e4123c5a3f5dc761",
+      "title": "관리자 계정의 새로운 기능: 최적화 점수 및 추천",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9954560",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9684bb485e2e84b785b7",
+      "title": "Google Ads 에디터 1.4: 추천 및 지역 캠페인 지원",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9992642",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d3d4f430a1b43464a5eb",
+      "title": "왜곡된 주장 정책을 확대하여 효과적으로 클릭베이트 광고 처리하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9984360",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d37ca0bd876cbc96341d",
+      "title": "반응형 검색 광고의 새로운 기능 소개",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9970276",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "353647588d0229f98d92",
+      "title": "반응형 디스플레이 광고의 새로운 디자인",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9975738",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e27d19dfd2e30b6f0236",
+      "title": "동영상 캠페인에 대한 병렬 추적 적용 시한이 2021년 3월 31일까지로 연장되었습니다",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-08",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9970963",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "8d35d3673694c7edab82",
+      "title": "이제 Google Ads 모바일 앱에서 관리자 계정을 사용할 수 있습니다.",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9954561",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4494665b04285a033648",
+      "title": "3개의 새로운 기능으로 개요 페이지에서 다양한 작업 수행",
+      "category": "한국어 공식 공지",
+      "date": "2020-07-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9955167",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "de99b1273cfcf588a6ed",
+      "title": "앱 사용자에게 유용한 앱 개발을 위해 디지털 기술을 업그레이드할 수 있는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2020-06-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9934879",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "577a25568c310e66e545",
+      "title": "앱 캠페인의 피드를 사용하여 관련성이 더 높고 유용한 광고 경험 제공하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-06-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9934596",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1e0ef05dbe77608d04df",
+      "title": "노출 점유율 입찰 전략으로 업데이트하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-06-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9944589",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "111494ec87fa53268589",
+      "title": "스마트 캠페인으로 더 많은 고객에게 도달하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-06-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9934637",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "af6be6ca4db2edb5142a",
+      "title": "설명을 통해 전환수의 변화 파악하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-06-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9911637",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fdaef26ae0d7a52dbc45",
+      "title": "키워드 상세검색으로 쉽고 빠르게 관련성 높은 키워드 찾기",
+      "category": "한국어 공식 공지",
+      "date": "2020-06-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9907498",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4a297e02c3e7cd7a9e1a",
+      "title": "디스커버리 광고로 검색 가능성 높이기",
+      "category": "한국어 공식 공지",
+      "date": "2020-05-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9904013",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e2ff6f091054e47c7062",
+      "title": "소매 카테고리 보고서로 검색 및 쇼핑 광고 실적 파악하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-05-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9898915",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "90716b7e759d88907463",
+      "title": "코로나19 상황의 캠페인 관리를 위한 새로운 리소스",
+      "category": "한국어 공식 공지",
+      "date": "2020-05-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9880192",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "8d9076f1afc9d6c74754",
+      "title": "코로나19 사태 중 업계를 지원하기 위한 호텔 광고 제품 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2020-05-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9878927",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f6ae7cfde95e0698ce86",
+      "title": "동영상 캠페인에 병렬 추적 적용 시한 무기한 연장",
+      "category": "한국어 공식 공지",
+      "date": "2020-04-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9849334",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a1e13cdb964380a8fef8",
+      "title": "투명성 개선을 위해 광고주 신원 확인 필요",
+      "category": "한국어 공식 공지",
+      "date": "2020-04-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9843535",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7f2afcd43b9b21580e7a",
+      "title": "웹사이트 링크(선택사항)가 포함된 통화 광고 소개",
+      "category": "한국어 공식 공지",
+      "date": "2020-04-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9840358",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "39b770c7a44c122d04ee",
+      "title": "Google Ads 에디터 1.3: 공유 예산, 최적화 점수 등 지원",
+      "category": "한국어 공식 공지",
+      "date": "2020-04-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9822776",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "79086bb9e6c48d284821",
+      "title": "급변하는 시장의 마케팅 담당자를 위한 Google 트렌드",
+      "category": "한국어 공식 공지",
+      "date": "2020-04-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9817994",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "020f89acb8e3d285a291",
+      "title": "보고서 편집기를 이용하면 여러 계정에 걸쳐 나타나는 유용한 정보를 더 많이 찾을 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2020-03-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9800058",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "690dd90879b8b168e01f",
+      "title": "새로운 애셋 보고 기능으로 앱 캠페인 광고 소재에 관한 더욱 유용한 분석 정보 얻기",
+      "category": "한국어 공식 공지",
+      "date": "2020-03-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9792922",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b1481baaa82c79266deb",
+      "title": "더 쉬워진 광고 재제출 및 광고 정책 문제 이의신청",
+      "category": "한국어 공식 공지",
+      "date": "2020-03-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9790008",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7a017e3ac89b1cba68c4",
+      "title": "동영상 캠페인에 병렬 추적을 적용할 수 있는 기한 연장",
+      "category": "한국어 공식 공지",
+      "date": "2020-03-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9783219",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7ed82f76b4e63f2557d5",
+      "title": "포트폴리오 입찰 전략으로 전환수 최대화 및 전환 가치 극대화 사용하기",
+      "category": "한국어 공식 공지",
+      "date": "2020-03-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9763450",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "40a332c65f5292a006e1",
+      "title": "Google Ads의 기여도 보고서에 새로운 디자인 적용",
+      "category": "한국어 공식 공지",
+      "date": "2020-03-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9764117",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a2e5ccc2177960dbde69",
+      "title": "Google Ads 모바일 앱에 새롭게 추가된 기능으로 이동 중에도 다양한 작업 수행",
+      "category": "한국어 공식 공지",
+      "date": "2020-03-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9762485",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "bc7b6336d2ec457668cc",
+      "title": "Google Ads에서 캠페인 변경사항이 광고 실적에 미치는 영향을 쉽게 확인할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2020-02-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9733082",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7ec69d69b1291d58a771",
+      "title": "이제 모든 Google Ads 캠페인에서 향상된 일반 게재를 사용합니다.",
+      "category": "한국어 공식 공지",
+      "date": "2020-01-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9712796",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fa68b9090a36be9634af",
+      "title": "Zapier로 Google Ads 전환 가져오기 자동화",
+      "category": "한국어 공식 공지",
+      "date": "2020-01-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9707540",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c0db0a8a7be7cccc7175",
+      "title": "이제 동영상 캠페인의 병렬 추적 사용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2020-01-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9698426",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e798241639e52851f0d5",
+      "title": "예산 및 목표 변경이 스마트 자동 입찰에 미치는 영향 이해",
+      "category": "한국어 공식 공지",
+      "date": "2020-01-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9659555",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9529152f5f57dec1d098",
+      "title": "관리자 및 하위 계정에서 손쉽게 리마케팅 목록 공유",
+      "category": "한국어 공식 공지",
+      "date": "2019-12-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9659479",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f71ec29f5496bf77bf45",
+      "title": "설명 기능으로 실적 변동사항 파악하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-12-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9569021",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7eeea1365020ba8f61ad",
+      "title": "이제 최적화 점수에 디스플레이 캠페인 포함",
+      "category": "한국어 공식 공지",
+      "date": "2019-12-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9662250",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "eaa9bc45d27f34d49eef",
+      "title": "키워드 플래너의 새로운 기능: 여러 계획 및 계획 공유",
+      "category": "한국어 공식 공지",
+      "date": "2019-12-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9644185",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "80d3622491e0a4b5a4da",
+      "title": "TV 화면에도 게재할 수 있게 된 YouTube 마스트헤드",
+      "category": "한국어 공식 공지",
+      "date": "2019-11-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9639395",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "51afb6c17cc9dfc69936",
+      "title": "주요 신호로 입찰 전략에 대한 자세한 분석",
+      "category": "한국어 공식 공지",
+      "date": "2019-11-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9644171",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b1e6c9f18eefaff46301",
+      "title": "Google Ads 에디터 1.2: 새 캠페인 유형 및 교차 계정 기능",
+      "category": "한국어 공식 공지",
+      "date": "2019-11-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9612141",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "10e4ef342cc2f24f4738",
+      "title": "더 많은 연말연시 쇼핑객에게 제품을 제공하기 위한 판매자 센터 업그레이드",
+      "category": "한국어 공식 공지",
+      "date": "2019-11-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9611733",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e66a0bff2b7d0b022893",
+      "title": "YouTube 광고의 새로운 광고 확장으로 동영상 캠페인 실적 높이기",
+      "category": "한국어 공식 공지",
+      "date": "2019-11-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9606720",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7c691f4962bf1f6e71bc",
+      "title": "리드 양식 광고 확장(베타)을 사용하여 더 신속하게 고객에게 도달하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9594220",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a010e9b336560a9b1b33",
+      "title": "이제 모든 광고주는 새로운 도구와 함께 반응형 검색 광고를 사용할 수 있습니다.",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9569689",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6ebf6b653b74c21a448c",
+      "title": "새 열을 통해 시간별 전환수 이해",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9549009",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c57a3ceba434fe0aaac5",
+      "title": "앱 캠페인 애셋 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9536251",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "01ef937ae6c848fedbfd",
+      "title": "YouTube 마스트헤드에서 체험하는 가상 메이크업",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9547094",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1aa1a318ed37990e69b1",
+      "title": "Google 검색에서 타겟 고객에게 도달",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9546093",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "022f6789a9539266fd88",
+      "title": "캠페인 수준에서 동영상 광고의 전환 액션 설정하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-08",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9462435",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "847d8d80df635b194f3b",
+      "title": "Search Ads 360에 제공되는 Google Ads 실시간 입찰",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9526545",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e49302c988c575d721b7",
+      "title": "제품 리뷰에 사용자 촬영 이미지를 사용하여 방문자를 구매자로 전환하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-10-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9522897",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "cede09b5c264a55440f7",
+      "title": "보고서 편집기로 더욱 용이해진 교차 계정 분석",
+      "category": "한국어 공식 공지",
+      "date": "2019-09-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9515197",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2d5292673831fe85aac4",
+      "title": "새로운 디자인으로 통화 전용 광고의 통화 품질 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-09-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9506391",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b570b8bac8c7ddd4fb47",
+      "title": "새로운 기능으로 더 많은 추천 받기",
+      "category": "한국어 공식 공지",
+      "date": "2019-09-25",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9503749",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "805d7716cd62d9b891b4",
+      "title": "새 캠페인을 만들 때 전환 측정 설정하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-09-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9489177",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2ccb62d0cf59eacd7347",
+      "title": "스마트 자동 입찰에 매장 방문을 추가하여 옴니채널 성과 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-09-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9497556",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3f29f20f8a0839c8979d",
+      "title": "이제 Google Ads 모바일 앱에서 최적화 점수 지원",
+      "category": "한국어 공식 공지",
+      "date": "2019-09-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9482884",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1a03dfb2e3c3448c16db",
+      "title": "검색 및 쇼핑 캠페인의 빠른 게재 지원 종료 10월로 연기",
+      "category": "한국어 공식 공지",
+      "date": "2019-09-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9484290",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "32fc5ef624d5f961f163",
+      "title": "스마트 자동 입찰을 위한 계절성 조정 소개",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9461281",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ad8866e956d1ecaac76d",
+      "title": "이제 개요 페이지에서 필터 사용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9453497",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "65849cadbe41e5ee0526",
+      "title": "새로운 스마트 자동 입찰 전략: 전환 가치 극대화",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9448546",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "66b552b4ee5af1a82999",
+      "title": "이제 검색 및 쇼핑 캠페인에 향상된 일반 게재가 사용됩니다.",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9448876",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e3010f1ed043478a05f3",
+      "title": "이제 최적화 점수에 쇼핑 캠페인 포함",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9438178",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e150d69b9ad22439dc09",
+      "title": "평균 게재순위의 새로운 대안을 9월 30일부터 적용합니다",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9439546",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "30af217406726ea923fe",
+      "title": "계정 지도로 여러 계정을 더욱 효율적으로 관리",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9432063",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "220f58bab3394def61a6",
+      "title": "갤러리 광고(베타), 전 세계 11개 언어로 제공",
+      "category": "한국어 공식 공지",
+      "date": "2019-08-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9430978",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5c1c583aa24d4b7aeb22",
+      "title": "구문검색 및 변형 확장검색으로 적합한 고객에게 더 많이 도달하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-07-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9426627",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6a7b93afbc2b2d45f97f",
+      "title": "새 기능이 추가되고 사용이 더 간편해진 Google Ads 에디터 1.1",
+      "category": "한국어 공식 공지",
+      "date": "2019-07-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9416991",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f97d9e2862f9bbf712ba",
+      "title": "CPM을 기준으로 YouTube 마스트헤드 구매 가능",
+      "category": "한국어 공식 공지",
+      "date": "2019-07-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9402524",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "144c6c73787352a39f7c",
+      "title": "Google 동영상 파트너에서 액션 TrueView로 더 많은 전환 유도하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-07-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9374897",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "fbdc806e71a334cf63f6",
+      "title": "병렬 추적 기능은 2019년 7월 31일부터 디스플레이 광고에서 의무적으로 사용됩니다.",
+      "category": "한국어 공식 공지",
+      "date": "2019-07-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9400537",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "da7922331fbe2dd03bf0",
+      "title": "앱 캠페인의 신규 업데이트로 iOS 모바일 웹브라우저에서 더 많은 검색 인벤토리 사용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2019-07-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9382304",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4b859e54160b7da88ddc",
+      "title": "Google Ads 모바일 앱에서 반응형 검색 광고 만들기 및 수정하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-06-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9371046",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "edff058fb4db59189464",
+      "title": "'방문 페이지' 페이지에서 쇼핑 캠페인의 방문 페이지 실적 보기",
+      "category": "한국어 공식 공지",
+      "date": "2019-06-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9359912",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "acbf6c231b004d7c4c79",
+      "title": "포트폴리오 입찰 전략 간소화",
+      "category": "한국어 공식 공지",
+      "date": "2019-06-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9372151",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f7557ed7e4d98f335ff9",
+      "title": "캠페인 수준에서 입찰할 전환 액션 선택",
+      "category": "한국어 공식 공지",
+      "date": "2019-06-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9363021",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ada35c5d2e7938086efd",
+      "title": "검색 결과 위치 타겟, 경쟁 광고보다 높은 순위를 얻은 노출 비율 및 타겟 노출 점유율",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9354813",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b1123c475b04976ecdbf",
+      "title": "최적화 점수에 새로 추가된 추천",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9331470",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "192e02a0535487efab4a",
+      "title": "Google Marketing Live 2019 발표 내용 요약",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9341751",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4a96968bf3b25dd77b56",
+      "title": "Google Marketing Live: 새로운 소비자 여정 구축",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9338560",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "52d86f2d07dd66281db4",
+      "title": "Google Ads의 새로운 실적 플래너",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9338821",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "27a2f24b0f34efe71e7b",
+      "title": "여름 모바일 마케팅: Google Marketing Live 2019",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9334322",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ef304dec8013c57d136d",
+      "title": "광고로 앱 비즈니스를 성장시키기 위한 스마트한 전략",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-08",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9334345",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d560439562ceaf73364f",
+      "title": "Google Sheets로 Google Ads 데이터 내보내기",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9055275",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "7a566eb0acfae4b53fcc",
+      "title": "키워드 플래너 변경 완료",
+      "category": "한국어 공식 공지",
+      "date": "2019-05-01",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9327909",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e807bd7a3a4098def9a9",
+      "title": "모든 기여도 보고서에 교차 기기 활동 추가",
+      "category": "한국어 공식 공지",
+      "date": "2019-03-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9287859",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ccc888dd4691874a4ea4",
+      "title": "새로운 Google Ads 에디터로 모든 계정을 관리하세요",
+      "category": "한국어 공식 공지",
+      "date": "2019-03-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9269266",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "05d0281bbf738ddd03ed",
+      "title": "Google Ads에서 새롭게 선보이는 '추천 열' 기능",
+      "category": "한국어 공식 공지",
+      "date": "2019-03-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9280246",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "36478d4fd56a823d6df5",
+      "title": "정책 준수를 지원하기 위한 노력",
+      "category": "한국어 공식 공지",
+      "date": "2019-03-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9273517",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0925b98367bd471725d8",
+      "title": "게임 비즈니스의 성장을 위한 광고",
+      "category": "한국어 공식 공지",
+      "date": "2019-03-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9274080",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d338b06516aa2ed9d458",
+      "title": "Google Marketing Live 5월 14일 방송 예정: 지금 등록하세요",
+      "category": "한국어 공식 공지",
+      "date": "2019-03-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9275707",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "421b68c68fd5c9d0c027",
+      "title": "개선된 내 사이트 테스트 도구로 모바일 사이트 속도 평가",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-28",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9266513",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "22dc646ee0fd7bf29beb",
+      "title": "평균 게재순위의 새로운 대안 준비",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9263492",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "48483942bf51e392a4c4",
+      "title": "통화 전용 광고의 텍스트 줄 추가",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-25",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9262612",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "de8cc34448c6dd48bdd9",
+      "title": "보고서 편집기의 새로운 두 가지 차트 유형",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9256505",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "478a19225a58d2b88fc9",
+      "title": "반응형 디스플레이 광고의 새로운 3가지 기능 소개",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9260895",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "acfd21b58fdb9ce80b93",
+      "title": "유니버설 앱 캠페인에서 앱 캠페인으로 축약",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9256714",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2620ef2c50b927b310c6",
+      "title": "표시된 데이터세트에 대한 사전 정의된 보고서 쉽게 찾기",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9256699",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "88f3de3ea67e592fdf6c",
+      "title": "방문 페이지 탭에 새로 추가된 모바일 페이지 속도 점수",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9238823",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5257678eb82b32e7e077",
+      "title": "2019년 5월 1일부터 디스플레이 및 동영상 캠페인에 병렬 추적 사용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9247359",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "09d6c96334162bb09861",
+      "title": "검색 캠페인에 대한 클릭 점유율",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9181997",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "81b27643c211de8fe2ee",
+      "title": "액션 TrueView로 실적 향상을 거두는 다양한 방법",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9238647",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5191f7db77c75205b3c7",
+      "title": "YouTube 마스트헤드의 시청자층 및 구매 기능 확대",
+      "category": "한국어 공식 공지",
+      "date": "2019-02-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9240173",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "635c733dbf745f1c3ff1",
+      "title": "최적화 점수로 계정 전체를 완전히 최적화하기",
+      "category": "한국어 공식 공지",
+      "date": "2019-01-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9233671",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "de68aa6a8944e337244c",
+      "title": "YouTube의 판매효과를 측정하는 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2019-01-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9233298",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f8d07c521de3321b2e56",
+      "title": "이제 광고주도 사용 가능한 건너뛸 수 없는 15초 동영상 광고",
+      "category": "한국어 공식 공지",
+      "date": "2019-01-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9228637",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "89041955b34595d34492",
+      "title": "최신 디스플레이 광고 기능을 활용하여 연말연시 전환수 늘리기",
+      "category": "한국어 공식 공지",
+      "date": "2018-12-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9211918",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f2da0afc420297395285",
+      "title": "디스플레이 캠페인에서의 전환당 비용 지불 옵션 소개",
+      "category": "한국어 공식 공지",
+      "date": "2018-12-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9208548",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c584f960681a0b958fb9",
+      "title": "동영상 광고에 사용할 수 있는 새로운 클릭 유도 문구 확장 소재",
+      "category": "한국어 공식 공지",
+      "date": "2018-12-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9206810",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "37e7cfcf121000e5c65b",
+      "title": "반응형 검색 광고를 위한 추가 언어 지원 및 새로운 도구",
+      "category": "한국어 공식 공지",
+      "date": "2018-12-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9201961",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9371a94ceeec4f6c2e1e",
+      "title": "통화 및 메시지 보고를 더 많은 장소로 확장하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-27",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9194359",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9c64c9d48fd62c300a14",
+      "title": "YouTube에서 광고 모음 테스트 예정",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-21",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9192004",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ada99c34383ebe58615c",
+      "title": "동영상 광고 순서 지정을 사용하여 여러 영상 및 광고 형식 전반에 걸쳐 스토리 전하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9182150",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "570b00ae2cc968c976c7",
+      "title": "타겟 노출 점유율을 사용하여 브랜드 인지도 향상",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-15",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9111142",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "4718ed91cfb7a01e454b",
+      "title": "영상, 사운드와 확장: 이제 전 세계에서 모든 브랜드가 도달범위 TrueView를 사용할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9182151",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "edd92b65992d82654bb7",
+      "title": "목표 기반 캠페인을 만드는 새 워크플로",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-08",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9116097",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "57a18590926e46f4ef3d",
+      "title": "Google 스프레드시트의 Google Ads 부가기능 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9158197",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "30835b33e78cb4d2a5e3",
+      "title": "네 가지 새로운 검색 광고 게재순위 측정항목 소개",
+      "category": "한국어 공식 공지",
+      "date": "2018-11-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9140484",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2029f2c8c4ccf60e358e",
+      "title": "'신규방문 vs. 재방문' 매장 방문 세분화 지금 이용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2018-10-29",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9172732",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2511f46d39fc43fb8074",
+      "title": "광고 미리보기 및 진단 도구에 새로 추가된 두 가지 기능",
+      "category": "한국어 공식 공지",
+      "date": "2018-10-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9172579",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "240e49d45a98bd0f9ae1",
+      "title": "메시지를 관리하는 간편한 방법",
+      "category": "한국어 공식 공지",
+      "date": "2018-10-25",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9172344",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "1430550ca6441d4bcf2d",
+      "title": "로드 시간을 단축하고 사용자 환경을 개선하는 병렬 추적 기능",
+      "category": "한국어 공식 공지",
+      "date": "2018-10-22",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9147021",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a0d0d8476303084a073c",
+      "title": "스마트 TV에서 YouTube 사용자에게 도달할 수 있는 새로운 TV 화면 기기 카테고리 도입",
+      "category": "한국어 공식 공지",
+      "date": "2018-10-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9163453",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "74c8c8f74c8c948b48e0",
+      "title": "사전 정의된 새로운 방문 페이지 보고서",
+      "category": "한국어 공식 공지",
+      "date": "2018-10-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9163000",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "e12fc5638279768ee594",
+      "title": "액션 TrueView 광고의 기여도 산출 방식 개선",
+      "category": "한국어 공식 공지",
+      "date": "2018-10-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9149284",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b97e9e0991f5b7c66848",
+      "title": "Google 동영상 파트너와 함께 동영상 캠페인의 영향을 확대하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-26",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9150599",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9572071e5723979ea641",
+      "title": "쇼퍼블 이미지 광고로 쇼핑객의 구매 결정 유도하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-14",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9140490",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c635f05e570c6033fac4",
+      "title": "쇼케이스 쇼핑 광고에서 동영상으로 소비자의 구매 돕기",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9140526",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5958cbc2474987a9abe5",
+      "title": "YouTube에서 TrueView 및 유니버설 앱 캠페인용 세로 동영상 광고 사용 가능",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-12",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9138237",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "cc161ae8e5d788155a6b",
+      "title": "반응형 디스플레이 광고로 웹 전반에서 최적의 메시지 전달하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9131153",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "ce9252f7e8e75b30d145",
+      "title": "유사 검색어로 검색 의도에 일치하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9131274",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3b460491d22eb1cd4846",
+      "title": "동적 검색 광고용 URL 수준 통계 사용",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-05",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9131376",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "02dc6bbde495941d9268",
+      "title": "표준 캠페인의 방문 페이지에 트래픽 증대",
+      "category": "한국어 공식 공지",
+      "date": "2018-09-04",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9131327",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a9e7463d177f501e5e0d",
+      "title": "Google Ads에서 Accelerated Mobile Pages(AMP) 사용 및 테스트하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-31",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9124484",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d4f0dcf4bd8743cb00d3",
+      "title": "이번에 출시된 애드워즈 에디터에 포함된 4가지 새로운 기능",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-30",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9126761",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "20bac57209c984e3e920",
+      "title": "스크립트 작성을 위한 워크숍",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9121067",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "693e6181a7243af573b7",
+      "title": "실적 향상을 위한 디스플레이 광고 스타일의 현대화",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-20",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9116369",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "785c886ea751b5d1b78e",
+      "title": "개요 페이지의 카드에서 바로 할 수 있는 작업",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9111278",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "b845964a7c22143d64bc",
+      "title": "새 로컬 전환 통계를 참조하여 지역 광고 최적화하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9055793",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a477100adad05421e04c",
+      "title": "반응형 검색 광고로 관련성 높은 광고 게재하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9100171",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a56486ccd093091119f8",
+      "title": "앱 캠페인 광고 전략 전문가 되기",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-07",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9097857",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6e029210effd7e5d3b12",
+      "title": "Google Ads 계정을 위한 새로운 보안 기능",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-06",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9097007",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "d436848814200cd62fa4",
+      "title": "보고서 편집기의 기간 비교 데이터 차트",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-03",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9095588",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "c3f7a6115f6d32dff578",
+      "title": "사이트 전체 태그 지정으로 모든 전환수 계산하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9094505",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "3f4a48a49fc0d0488c65",
+      "title": "최적화 점수를 이용하여 계정 최적화하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-08-02",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9095477",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6d73255273d62698218a",
+      "title": "Google Ads 에디터 12.4의 새로운 기능 활용",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-24",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9082599",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0b3acc5333ce81242b33",
+      "title": "스마트 자동 입찰 업데이트",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-23",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9056142",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "cf1b3e433379d4a4714e",
+      "title": "쿠키 기반 실험을 통해 사용자에 대한 전용 테스트 및 통제그룹 만들기",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-19",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9051618",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "988062e1179fe3d7828c",
+      "title": "동적 검색 광고에 방문 페이지 보고서 사용하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9050634",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "97f708864034e2e5af96",
+      "title": "Google Ads에서 이용 가능한 새로운 방문 페이지 매개변수 옵션",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-18",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9077177",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0e3cc631228bb708758f",
+      "title": "새 단어 통계 카드로 키워드 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9050332",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "9d5852ca853f211615ec",
+      "title": "광고그룹 변화 통계를 사용하여 캠페인 실적 변화에 신속하게 대처하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-16",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9051902",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0626315a1a800d5390e7",
+      "title": "보고서 생성 시간을 절약하는 방법: Google Sheets의 새로운 Google Ads 부가기능 사용하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-13",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9052699",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6602c044092298f1c20e",
+      "title": "지원 환경 제공 시 속도의 중요성",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-11",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9069088",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "2b5c7f34dae6c8b26f40",
+      "title": "모든 광고주를 대상으로 머신러닝 기술을 활용한 기능 배포하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-10",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9065075",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "eae1fb633dc9fc2f6567",
+      "title": "메모를 사용하여 계정 실적에 대한 세부정보를 비즈니스 내 다른 사용자와 공유하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-07-09",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9047857",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "136cc02f02748480c976",
+      "title": "소비자에게 더욱 빠르고, 안전하고, 편리한 광고 경험 제공하기",
+      "category": "한국어 공식 공지",
+      "date": "2018-05-17",
+      "url": "https://support.google.com/google-ads/announcements/9048695?hl=ko#title-9054597",
+      "read": false,
+      "important": false
     }
   ],
   "source_status": {
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T10:25:21.754328+09:00"
+      "checked_at": "2026-11-20T10:44:18.629082+09:00"
     },
     "GOOGLE": {
       "ok": true,
-      "count": 10,
-      "checked_at": "2026-11-20T10:29:52.425802+09:00"
+      "count": 386,
+      "checked_at": "2026-11-20T10:46:08.214229+09:00"
     },
     "META": {
       "ok": true,
-      "count": 1,
-      "checked_at": "2026-11-20T10:29:53.594357+09:00"
+      "count": 17,
+      "checked_at": "2026-11-20T10:46:47.601697+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T10:29:55.157032+09:00"
+      "checked_at": "2026-11-20T10:47:16.073701+09:00"
     },
     "KAKAO": {
       "mode": "manual",
