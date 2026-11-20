@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 05:00:31 KST",
+  "updated_at": "2026-11-20 09:57:06 KST",
   "notices": [
     {
       "platform": "GOOGLE",
@@ -8,6 +8,17 @@
       "category": "공식 뉴스",
       "date": "2026-11-20",
       "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "8473c5dd1798b67456b0",
+      "title": "2026 세부 업종 분석 리포트 2. 스포츠웨어",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-11-19",
+      "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/_2026__20261119104507.pdf",
       "read": false,
       "important": false
     },
@@ -482,6 +493,17 @@
       "important": false
     },
     {
+      "platform": "REPORT",
+      "id": "fa07471c06c266be7a8e",
+      "title": "[CJ?메조미디어]?미디어 뉴스 리포트,?2026년?11월 호",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-10-30",
+      "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193980&oid=@55937|2|24",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "NAVER",
       "id": "ac3247dcc4723f22b267",
       "title": "2026년 11월 신용카드 무이자 할부 혜택 new 공통 2026-10-30",
@@ -522,12 +544,56 @@
       "important": false
     },
     {
+      "platform": "REPORT",
+      "id": "3fba9c282efba277d5c3",
+      "title": "[CJ?메조미디어] 2026 '보험' 업종 분석 리포트",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-10-30",
+      "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193981&oid=@55937|3|24",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "cba9c68922c9241f9134",
+      "title": "소비자가 반응하는 곳을 찾고 싶다면? 몰로코의 오픈인터넷 전략",
+      "publisher": "인크로스",
+      "category": "마케팅 리포트",
+      "date": "2026-10-29",
+      "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193974&oid=@55936|14|24",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "c6a657d78fca02fada69",
+      "title": "성수기는 지났는데 이용자는 늘었다? NOL의 플랫폼 통합 전략 | 2026년 10월 매체력 평가 리포트",
+      "publisher": "인크로스",
+      "category": "마케팅 리포트",
+      "date": "2026-10-29",
+      "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193976&oid=@55937|1|24",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "META",
       "id": "b7826f280a9e46721600",
       "title": "Inside the Three New AI innovations in Ads Ranking Improving your Ad Performance",
       "category": "공식 뉴스",
       "date": "2026-10-29",
       "url": "https://www.facebook.com/business/news/three-new-ai-innovations-in-ads-ranking",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "ad59ee67febaeb4e3a8b",
+      "title": "AI 에이전트 등장! 광고의 소비자 접점이 달라진다 | 2026년 10월 미디어 이슈 리포트",
+      "publisher": "인크로스",
+      "category": "마케팅 리포트",
+      "date": "2026-10-29",
+      "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193975&oid=@55936|15|24",
       "read": false,
       "important": false
     },
@@ -568,6 +634,28 @@
       "category": "공식 뉴스",
       "date": "2026-10-29",
       "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "7eb4e4071234bbc57603",
+      "title": "[2026년 10월] MEDIA AD ISSUE",
+      "publisher": "KT나스미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-10-29",
+      "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193973&oid=@55936|13|24",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "7b7a88dc3e16e43a27e0",
+      "title": "[2026년 10월] MEDIA & MARKET ISSUE",
+      "publisher": "KT나스미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-10-29",
+      "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193971&oid=@55936|12|24",
       "read": false,
       "important": false
     },
@@ -632,6 +720,17 @@
       "important": false
     },
     {
+      "platform": "REPORT",
+      "id": "f4aca8563f8fe5de0904",
+      "title": "미디어 뉴스 리포트_26년 11월",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-10-27",
+      "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/Mezzomedia_Media_Report_11_20261029132517.pdf",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "NAVER",
       "id": "e9f667b7550335264fd0",
       "title": "(수정2) [쇼핑검색광고/ADVoost 쇼핑] 모바일 통합검색 쇼핑 컬렉션 전체 상품 노출 개수 최적화 테스트 안내 (3차 테스트 일정 추가) new 공통 2026-10-27",
@@ -648,6 +747,17 @@
       "category": "",
       "date": "2026-10-27",
       "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "8d1455a389fd3674c412",
+      "title": "2026 세부 업종 분석 리포트 1. 보험",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-10-27",
+      "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/_2026__20261026164726.pdf",
       "read": false,
       "important": false
     },
@@ -1292,6 +1402,16 @@
       "important": false
     },
     {
+      "platform": "META",
+      "id": "fb347fcd65ea4cc3f4ad",
+      "title": "Instagram 라이브 방송 광고 국내 도입",
+      "category": "한국어 공식 공지",
+      "date": "2026-09-30",
+      "url": "https://about.fb.com/ko/news/2026/09/instagram-live-ad-in-korea/",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "NAVER",
       "id": "faf70b9165e64da366e7",
       "title": "(수정) [신규 노출 영역] 네이버+ > 카페 홈 피드 디스플레이광고/쇼핑검색광고 노출 안내 공통 2026-09-30",
@@ -1348,6 +1468,39 @@
       "category": "",
       "date": "2026-09-30",
       "url": "https://ads.naver.com/notice/34485?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "d50efde7292761e87314",
+      "title": "2026 대업종 분석 리포트 1. 금융",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-09-29",
+      "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/2026__20260929144308.pdf",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "c2d4f8d29519ddfab44a",
+      "title": "2026 대업종 분석 리포트 2. 패션",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-09-29",
+      "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/2026__20260929144415.pdf",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "920de8f849fa206ffb6b",
+      "title": "미디어 뉴스 리포트_26년 10월",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-09-29",
+      "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/Mezzomedia_Media_Report_10_20260929144734.pdf",
       "read": false,
       "important": false
     },
@@ -1582,6 +1735,106 @@
       "important": false
     },
     {
+      "platform": "GOOGLE",
+      "id": "0a5325a75f2d27bc8c8d",
+      "title": "실적 최대화 캠페인의 새로운 애셋 실험으로 성과를 극대화하세요",
+      "category": "한국어 공식 공지",
+      "date": "2026-06-07",
+      "url": "https://business.google.com/kr/accelerate/announcements/scale-results-with-new-asset-experiments-in-performance-max/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "82784b771bcfe16f375c",
+      "title": "Google Ads의 Veo를 사용해 가장 중요한 YouTube 잠재고객에게 도달하세요",
+      "category": "한국어 공식 공지",
+      "date": "2026-03-24",
+      "url": "https://business.google.com/kr/accelerate/announcements/veo-google-ads/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "a001340a9039ba6730b0",
+      "title": "Google Ads에서 Nano Banana Pro를 사용해보세요",
+      "category": "한국어 공식 공지",
+      "date": "2025-11-06",
+      "url": "https://business.google.com/kr/accelerate/announcements/nano-banana-pro-live-in-google-ads/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5cef4215e2c27e55183f",
+      "title": "Google Ads에서 웹 및 앱 광고를 연결하는 새로운 기능",
+      "category": "한국어 공식 공지",
+      "date": "2025-09-05",
+      "url": "https://business.google.com/kr/accelerate/announcements/new-features-to-connect-your-web-and-app-advertising-in-google-ads/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "0566230f03c1825863c4",
+      "title": "iOS 앱 캠페인 실적을 개선하는 3가지 새로운 방법",
+      "category": "한국어 공식 공지",
+      "date": "2025-08-07",
+      "url": "https://business.google.com/kr/accelerate/announcements/3-new-ways-to-unlock-ios-app-campaign-performance/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "beac1b168e4c65ef7979",
+      "title": "이제 디맨드젠 캠페인에서 YouTube 후속 조회수 최적화를 사용할 수 있습니다",
+      "category": "한국어 공식 공지",
+      "date": "2025-06-12",
+      "url": "https://business.google.com/kr/accelerate/announcements/youtube-follow-on-views-optimization-now-available-in-demand-gen-campaigns/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "5fb9343b5980584ae71a",
+      "title": "광고주용 Google 태그 게이트웨이로 전환 측정 및 광고 실적 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2025-05-02",
+      "url": "https://business.google.com/kr/accelerate/announcements/enhance-your-conversion-measurement-and-ad-performance-with-google-tag-gateway-for-advertisers/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "64c9cb9bfc2696f8974d",
+      "title": "검색 결과 하단의 광고 관련성 향상",
+      "category": "한국어 공식 공지",
+      "date": "2025-04-21",
+      "url": "https://business.google.com/kr/accelerate/announcements/improving-search-ads-relevance-lower-down-the-page/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "6dc722c64c502ee8ec6b",
+      "title": "실적 최대화 캠페인에 더 많은 목표 및 이미지 관리 기능이 추가됩니다",
+      "category": "한국어 공식 공지",
+      "date": "2025-04-09",
+      "url": "https://business.google.com/kr/accelerate/announcements/more-goals-and-image-controls-coming-to-performance-max/",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "GOOGLE",
+      "id": "f31383ccf11e9b6e5382",
+      "title": "확장 소재의 유연성을 높여 AI 기반 검색 광고의 실적 개선하기",
+      "category": "한국어 공식 공지",
+      "date": "2025-02-20",
+      "url": "https://business.google.com/kr/accelerate/announcements/driving-better-performance-from-ai-powered-search-ads-with-increased-asset-flexibility/",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "NAVER",
       "id": "508e0458320c9efda005",
       "title": "중요 네이버 성과형 디스플레이 광고 노출 지면 및 집행 가이드 안내 디스플레이 광고 2024-12-09",
@@ -1596,23 +1849,27 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T04:59:23.993256+09:00"
-    },
-    "KAKAO": {
-      "ok": false,
-      "count": 0,
-      "error": "Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://lounge-board.kakao.com/bulletin/list?serviceType=KAKAOMOMENT\", waiting until \"networkidle\"\n",
-      "checked_at": "2026-11-20T05:00:28.110253+09:00"
+      "checked_at": "2026-11-20T09:54:50.258723+09:00"
     },
     "GOOGLE": {
       "ok": true,
-      "count": 20,
-      "checked_at": "2026-11-20T05:00:28.262335+09:00"
+      "count": 22,
+      "checked_at": "2026-11-20T09:56:54.943678+09:00"
     },
     "META": {
       "ok": true,
-      "count": 10,
-      "checked_at": "2026-11-20T05:00:31.769428+09:00"
+      "count": 4,
+      "checked_at": "2026-11-20T09:57:05.082366+09:00"
+    },
+    "REPORT": {
+      "ok": true,
+      "count": 13,
+      "checked_at": "2026-11-20T09:57:06.755520+09:00"
+    },
+    "KAKAO": {
+      "mode": "manual",
+      "count": 0,
+      "reason": "Login required"
     }
   }
 }
