@@ -1,19 +1,5 @@
 {
-  "name": "ADRECIPE INSIGHT",
-  "company": "ADRECIPE",
-  "description": "마케터를 위한 광고 플랫폼 통합 정보센터",
-  "contact": {
-    "manager": "노태원 프로",
-    "email": "twnoh@ad-recipe.co.kr",
-    "phone": "010-4403-2341"
-  },
-  "companyInfo": {
-    "name": "(주)애드레시피",
-    "ceo": "이병재",
-    "registration": "775-87-01929",
-    "address": "서울특별시 금천구 벚꽃로36길 30, 11층 1106~1107호 (가산동, KS타워)",
-    "website": "https://www.ad-recipe.co.kr/",
-    "email": "ad-recipe@ad-recipe.co.kr",
-    "phone": "010-5943-1555"
-  }
+  "name": "애드보감",
+  "company": "ADBOGAM",
+  "description": "마케터를 위한 광고·마케팅 실무 백과사전"
 }
