@@ -1,5 +1,10 @@
 {
   "name": "ADRECIPE INSIGHT",
   "company": "ADRECIPE",
-  "description": "마케터를 위한 광고 플랫폼 통합 정보센터"
+  "description": "마케터를 위한 광고 플랫폼 통합 정보센터",
+  "contact": {
+    "manager": "노태원 프로",
+    "email": "twnoh@ad-recipe.co.kr",
+    "phone": "010-4403-2341"
+  }
 }
