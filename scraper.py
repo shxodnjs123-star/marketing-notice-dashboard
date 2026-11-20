@@ -137,13 +137,11 @@ def google():
     return collect_sources("GOOGLE",[
         ("한국어 공지",lambda:dated_page("GOOGLE","https://support.google.com/google-ads/announcements/9048695?hl=ko",r"/google-ads/answer/\d+"),False),
         ("한국어 제품",lambda:dated_page("GOOGLE","https://business.google.com/kr/accelerate/announcements/",r"/kr/accelerate/(?:announcements|resources)/.+"),False),
-        ("정책",lambda:dated_page("GOOGLE","https://support.google.com/adspolicy/announcements/9048695?hl=ko",r"/adspolicy/answer/\d+"),False),
-        ("글로벌",lambda:rss("GOOGLE","https://blog.google/products/ads-commerce/rss/"),True)])
+        ("정책",lambda:dated_page("GOOGLE","https://support.google.com/adspolicy/announcements/9048695?hl=ko",r"/adspolicy/answer/\d+"),False)])
 
 def meta():
     return collect_sources("META",[
-        ("한국어",lambda:dated_page("META","https://about.fb.com/ko/news/",r"/ko/news/20\d{2}/\d{2}/.+"),True),
-        ("글로벌",lambda:rss("META","https://www.facebook.com/business/news/rss/"),True)])
+        ("한국어",lambda:dated_page("META","https://about.fb.com/ko/news/",r"/ko/news/20\d{2}/\d{2}/.+"),True)])
 
 
 PUBLISHERS = {"플레이디":"플레이디","메조미디어":"메조미디어","인크로스":"인크로스","DMC미디어":"DMC미디어","DMC":"DMC미디어","모비데이즈":"모비데이즈","나스미디어":"KT나스미디어","Meta":"Meta","구글":"Google"}
@@ -198,7 +196,7 @@ def reports():
     return out
 
 def update():
-    data=load(); old={n["id"]:n for n in data.get("notices",[])}
+    data=load(); old={n["id"]:n for n in data.get("notices",[]) if n["platform"] not in ("GOOGLE","META") or n.get("category")=="한국어 공식 공지"}
     fresh=[]
     status={}
     for platform, fn in [("NAVER",naver),("GOOGLE",google),("META",meta),("REPORT",reports)]:
