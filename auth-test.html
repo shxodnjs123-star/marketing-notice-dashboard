@@ -1,0 +1,10 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>애드보감 로그인 테스트</title><meta name="robots" content="noindex,nofollow"><style>body{font:16px system-ui;background:#f7f6f2;color:#233f33;margin:0;padding:32px}main{max-width:420px;margin:40px auto;background:white;padding:28px;border:1px solid #ddd;border-radius:16px}button{font:inherit;padding:12px;width:100%;border:0;border-radius:8px;cursor:pointer;margin:8px 0}#login{background:#fee500;color:#191919}#logout{background:#eee}a{color:inherit}p{line-height:1.6}</style><main><a href="./">애드보감 홈</a><h1>로그인 테스트</h1><p>개발자용 인증 테스트 화면입니다. 정식 회원가입은 아직 준비 중입니다.</p><button id="login" disabled>카카오 로그인 테스트</button><button id="logout" hidden>로그아웃</button><p id="status" role="status">연결 확인 중</p></main><script type="module">
+import {createClient} from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.49.4/+esm';
+const client=createClient('https://ptkrqqedijyaqdehfbrx.supabase.co','sb_publishable_m4GZf2GeuZDxbrsh4xZ44A_QLbb0ohB',{auth:{flowType:'pkce'}});
+const login=document.getElementById('login'),logout=document.getElementById('logout'),status=document.getElementById('status');
+function show(session){login.hidden=!!session;login.disabled=false;logout.hidden=!session;status.textContent=session?'카카오 인증 완료 · 로그인 세션 확인됨':'로그인 대기 중'}
+client.auth.onAuthStateChange((event,session)=>show(session));
+const {data,error}=await client.auth.getSession();show(data.session);if(error)status.textContent='세션 확인 실패: '+error.message;
+login.onclick=async()=>{login.disabled=true;const {error}=await client.auth.signInWithOAuth({provider:'kakao',options:{redirectTo:location.origin+'/auth-test.html',scopes:'account_email'}});if(error){status.textContent='로그인 실패: '+error.message;login.disabled=false}};
+logout.onclick=async()=>{const {error}=await client.auth.signOut();if(error)status.textContent='로그아웃 실패: '+error.message};
+</script></html>
