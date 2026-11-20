@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:34:19 KST",
+  "updated_at": "2026-11-20 23:04:07 KST",
   "notices": [
     {
       "platform": "REPORT",
@@ -13,6 +13,26 @@
       "important": false
     },
     {
+      "platform": "NAVER",
+      "id": "876b7d524ff868f61d5c",
+      "title": "(수정) [안내] 네이버애즈 개인정보 안전성 확보조치 기준 적용 화면 추가 안내 (2026년 11월 26일 적용 예정) new 공통 2026-11-20",
+      "category": "",
+      "date": "2026-11-20",
+      "url": "https://ads.naver.com/notice/35505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "7d4b1d18cf43c9f1a8cb",
+      "title": "(수정) 쇼핑검색광고 신규 지표 '클릭 기대지수' 도입 및 기존 품질지수 종료 안내 new 공통 2026-11-20",
+      "category": "",
+      "date": "2026-11-20",
+      "url": "https://ads.naver.com/notice/34974?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "REPORT",
       "id": "310d6391ee6d75b733a1",
       "title": "[2026년 11월] 2026 주요 미디어 결산",
@@ -20,6 +40,16 @@
       "category": "마케팅 리포트",
       "date": "2026-11-20",
       "url": "https://www.adic.or.kr/lit/report/show.do?ukey=194086&oid=@55937|5|24",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "2d5534873216d3061afd",
+      "title": "쇼핑검색광고/ADVoost 쇼핑 - 네이버 알림 지면 노출 확대 new 공통 2026-11-20",
+      "category": "",
+      "date": "2026-11-20",
+      "url": "https://ads.naver.com/notice/35612?searchValue=&page=1",
       "read": false,
       "important": false
     },
@@ -5513,26 +5543,26 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T15:24:58.267120+09:00",
-      "last_success": "2026-11-20T15:24:58.267120+09:00"
+      "checked_at": "2026-11-20T22:56:14.783721+09:00",
+      "last_success": "2026-11-20T22:56:14.783721+09:00"
     },
     "GOOGLE": {
       "ok": true,
       "count": 386,
-      "checked_at": "2026-11-20T15:34:14.664005+09:00",
-      "last_success": "2026-11-20T15:34:14.664005+09:00"
+      "checked_at": "2026-11-20T23:03:57.555028+09:00",
+      "last_success": "2026-11-20T23:03:57.555028+09:00"
     },
     "META": {
       "ok": true,
       "count": 1,
-      "checked_at": "2026-11-20T15:34:16.561911+09:00",
-      "last_success": "2026-11-20T15:34:16.561911+09:00"
+      "checked_at": "2026-11-20T23:04:01.770234+09:00",
+      "last_success": "2026-11-20T23:04:01.770234+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 15,
-      "checked_at": "2026-11-20T15:34:19.603467+09:00",
-      "last_success": "2026-11-20T15:34:19.603467+09:00"
+      "checked_at": "2026-11-20T23:04:07.266415+09:00",
+      "last_success": "2026-11-20T23:04:07.266415+09:00"
     },
     "KAKAO": {
       "mode": "manual",
