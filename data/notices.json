@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-11-20 09:57:06 KST",
+  "updated_at": "2026-11-20 10:20:25 KST",
   "notices": [
-    {
-      "platform": "GOOGLE",
-      "id": "a5b97dedabde217ed1fe",
-      "title": "Build strategic A/B tests to grow your ad performance.",
-      "category": "공식 뉴스",
-      "date": "2026-11-20",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-      "read": false,
-      "important": false
-    },
     {
       "platform": "REPORT",
       "id": "8473c5dd1798b67456b0",
@@ -19,16 +9,6 @@
       "category": "마케팅 리포트",
       "date": "2026-11-19",
       "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/_2026__20261119104507.pdf",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "60e9bdf9250e072767ba",
-      "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
-      "category": "공식 뉴스",
-      "date": "2026-11-19",
-      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
       "read": false,
       "important": false
     },
@@ -113,16 +93,6 @@
       "important": false
     },
     {
-      "platform": "GOOGLE",
-      "id": "578aa117e8388a44c6d8",
-      "title": "How to find the best Black Friday deals and shop smarter",
-      "category": "공식 뉴스",
-      "date": "2026-11-16",
-      "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "09284c31e4b6d3d25092",
       "title": "네이버 스퀘어 역삼·부산·광주와 종로 스튜디오 운영 종료 및 이후 이용 안내 new 공통 2026-11-16",
@@ -133,42 +103,12 @@
       "important": false
     },
     {
-      "platform": "META",
-      "id": "f816ad02ad6a3a49b1fd",
-      "title": "From measurement to capital allocation: How leaders are putting incrementality to work",
-      "category": "공식 뉴스",
-      "date": "2026-11-13",
-      "url": "https://www.facebook.com/business/news/from-measurement-to-capital-allocation",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "524048231dd089a39036",
       "title": "(수정) 쇼핑검색광고 신규 지표 '클릭 기대지수' 도입 및 기존 품질지수 종료 안내 new 공통 2026-11-13",
       "category": "",
       "date": "2026-11-13",
       "url": "https://ads.naver.com/notice/34974?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "e62e7092a32055fd6782",
-      "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
-      "category": "공식 뉴스",
-      "date": "2026-11-12",
-      "url": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "META",
-      "id": "9142fb519c279b627acd",
-      "title": "Finding His Squad Again in a Facebook Group",
-      "category": "공식 뉴스",
-      "date": "2026-11-12",
-      "url": "https://www.facebook.com/business/news/finding-his-squad-again-in-a-facebook-group",
       "read": false,
       "important": false
     },
@@ -269,16 +209,6 @@
       "category": "",
       "date": "2026-11-09",
       "url": "https://ads.naver.com/notice/35369?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "1326fa4051cda799ae83",
-      "title": "Holiday 100: Your guide to this year’s top trending gifts",
-      "category": "공식 뉴스",
-      "date": "2026-11-09",
-      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
       "read": false,
       "important": false
     },
@@ -577,16 +507,6 @@
       "important": false
     },
     {
-      "platform": "META",
-      "id": "b7826f280a9e46721600",
-      "title": "Inside the Three New AI innovations in Ads Ranking Improving your Ad Performance",
-      "category": "공식 뉴스",
-      "date": "2026-10-29",
-      "url": "https://www.facebook.com/business/news/three-new-ai-innovations-in-ads-ranking",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "REPORT",
       "id": "ad59ee67febaeb4e3a8b",
       "title": "AI 에이전트 등장! 광고의 소비자 접점이 달라진다 | 2026년 10월 미디어 이슈 리포트",
@@ -618,26 +538,6 @@
       "important": false
     },
     {
-      "platform": "GOOGLE",
-      "id": "90830001a278ee793325",
-      "title": "Adapt your ad strategy to meet the way people search today.",
-      "category": "공식 뉴스",
-      "date": "2026-10-29",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "81b5c1032c2afaa379d3",
-      "title": "Ads in AI Mode expand to new markets.",
-      "category": "공식 뉴스",
-      "date": "2026-10-29",
-      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "REPORT",
       "id": "7eb4e4071234bbc57603",
       "title": "[2026년 10월] MEDIA AD ISSUE",
@@ -656,16 +556,6 @@
       "category": "마케팅 리포트",
       "date": "2026-10-29",
       "url": "https://www.adic.or.kr/lit/report/show.do?ukey=193971&oid=@55936|12|24",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "META",
-      "id": "4f39f074303b625beb5a",
-      "title": "How Meta's Ads System Matches Your Ad to the Right Person at the Right Time",
-      "category": "공식 뉴스",
-      "date": "2026-10-29",
-      "url": "https://www.facebook.com/business/news/how-metas-ads-system-matches-your-ad-to-the-right-person",
       "read": false,
       "important": false
     },
@@ -782,16 +672,6 @@
       "important": false
     },
     {
-      "platform": "META",
-      "id": "cc7eae0596c64aa1f7db",
-      "title": "Peak Season 2026 - You Don’t Beat The Auction. You Brief It.",
-      "category": "공식 뉴스",
-      "date": "2026-10-23",
-      "url": "https://www.facebook.com/business/news/you-dont-beat-the-auction-you-brief-it",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "6737a38866dfae7949f8",
       "title": "쇼핑 고객 확장 캠페인 내 다이내믹 소재 UI 안내 new 공통 2026-10-23",
@@ -872,26 +752,6 @@
       "important": false
     },
     {
-      "platform": "GOOGLE",
-      "id": "fc7f2d233e4b8a9adacc",
-      "title": "Expanding our defenses against financial scam ads",
-      "category": "공식 뉴스",
-      "date": "2026-10-21",
-      "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "META",
-      "id": "d4a60178b07560fe3cc9",
-      "title": "The Team of One That Doesn't Look Like It",
-      "category": "공식 뉴스",
-      "date": "2026-10-21",
-      "url": "https://www.facebook.com/business/news/muse-smb-jaeluxe-shoetique",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "c4fbdf8716f5ad6e3b73",
       "title": "[디스플레이 광고] 타겟 찾기 Beta 오픈 및 '오디언스 관리' 메뉴명 변경 안내 디스플레이 광고 2026-10-21",
@@ -908,16 +768,6 @@
       "category": "",
       "date": "2026-10-21",
       "url": "https://ads.naver.com/notice/34687?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "8780aebfe78e5af5e25a",
-      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
-      "category": "공식 뉴스",
-      "date": "2026-10-21",
-      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
       "read": false,
       "important": false
     },
@@ -942,16 +792,6 @@
       "important": false
     },
     {
-      "platform": "META",
-      "id": "c670f13188947d262a0e",
-      "title": "Performance Spotlight: How Agencies Are Testing for Incrementality",
-      "category": "공식 뉴스",
-      "date": "2026-10-20",
-      "url": "https://www.facebook.com/business/news/agencies-testing-incrementality",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "eaa1d6f985bd7020f239",
       "title": "대구광역시 달성군 구지면 지역체계 변경에 따른 광고주 대응 방안 안내 new 검색광고 2026-10-19",
@@ -968,16 +808,6 @@
       "category": "",
       "date": "2026-10-19",
       "url": "https://ads.naver.com/notice/34857?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "META",
-      "id": "59b751fa3b1a046cd880",
-      "title": "Creative diversification at scale: how Nest builds for the way Meta technologies work now",
-      "category": "공식 뉴스",
-      "date": "2026-10-19",
-      "url": "https://www.facebook.com/business/news/meta-nest-ai-creative-diversification",
       "read": false,
       "important": false
     },
@@ -1022,46 +852,6 @@
       "important": false
     },
     {
-      "platform": "META",
-      "id": "da60a013875a209714e8",
-      "title": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta",
-      "category": "공식 뉴스",
-      "date": "2026-10-16",
-      "url": "https://www.facebook.com/business/news/meta-brand-building-summit-2026",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "9f2289090b8fed0980b2",
-      "title": "An intelligent new shopping cart",
-      "category": "공식 뉴스",
-      "date": "2026-10-15",
-      "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "5b428a9167c5e97782c3",
-      "title": "Guide your campaign spending with new priority and allocation features",
-      "category": "공식 뉴스",
-      "date": "2026-10-15",
-      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "49102add5819d6b79b65",
-      "title": "Data-backed secrets to smarter holiday shopping",
-      "category": "공식 뉴스",
-      "date": "2026-10-15",
-      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "db2e6b555e5c9c4dddca",
       "title": "(9월 이벤트 종료) 네이버 디지털옥외광고 광고비 100% 환급 이벤트 안내 (수정) new 공통 2026-10-14",
@@ -1078,16 +868,6 @@
       "category": "",
       "date": "2026-10-14",
       "url": "https://ads.naver.com/notice/33770?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "2dc0ae8e19103dddb857",
-      "title": "Build your data strength with October’s Demand Gen drop.",
-      "category": "공식 뉴스",
-      "date": "2026-10-14",
-      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
       "read": false,
       "important": false
     },
@@ -1148,16 +928,6 @@
       "category": "",
       "date": "2026-10-12",
       "url": "https://ads.naver.com/notice/34656?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "META",
-      "id": "2469f4ba088925fb03ae",
-      "title": "The Second Brain on a Sixth-Generation Farm",
-      "category": "공식 뉴스",
-      "date": "2026-10-09",
-      "url": "https://www.facebook.com/business/news/muse-smb-bennett-orchards",
       "read": false,
       "important": false
     },
@@ -1318,16 +1088,6 @@
       "category": "",
       "date": "2026-10-07",
       "url": "https://ads.naver.com/notice/34356?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "df331b848e7d936480ff",
-      "title": "Turn your existing social assets into high-impact YouTube ads.",
-      "category": "공식 뉴스",
-      "date": "2026-10-02",
-      "url": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
       "read": false,
       "important": false
     },
@@ -1505,16 +1265,6 @@
       "important": false
     },
     {
-      "platform": "GOOGLE",
-      "id": "9df5afdb565a860fc9b9",
-      "title": "Turn discovery into action with September’s Demand Gen Drop.",
-      "category": "공식 뉴스",
-      "date": "2026-09-25",
-      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "f07e81d09530355037f4",
       "title": "[안내] 성인 관련 제품 광고 집행 기준 변경 안내 new 공통 2026-09-23",
@@ -1585,16 +1335,6 @@
       "important": false
     },
     {
-      "platform": "GOOGLE",
-      "id": "031752e9870ba8a97681",
-      "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
-      "category": "공식 뉴스",
-      "date": "2026-09-23",
-      "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
-      "read": false,
-      "important": false
-    },
-    {
       "platform": "NAVER",
       "id": "d289a04930452f9232a5",
       "title": "(업데이트) 파워링크 AI 요약텍스트 기능 제공 및 운영 기준 안내 new 검색광고 2026-09-22",
@@ -1611,46 +1351,6 @@
       "category": "",
       "date": "2026-09-22",
       "url": "https://ads.naver.com/notice/34356?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "f1cd2df9a671d2b69118",
-      "title": "Build campaigns that drive high-converting, sales-ready leads.",
-      "category": "공식 뉴스",
-      "date": "2026-09-18",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "5db80746ae9ce644ae1d",
-      "title": "Rethink your strategy to drive sales this holiday season.",
-      "category": "공식 뉴스",
-      "date": "2026-09-17",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "fb8a18dbebff1bcb4e8c",
-      "title": "Boost your holiday sales with these agentic commerce updates",
-      "category": "공식 뉴스",
-      "date": "2026-09-16",
-      "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "bbaed5ed3c203fe46732",
-      "title": "Rethink 2026",
-      "category": "공식 뉴스",
-      "date": "2026-09-16",
-      "url": "https://blog.google/products/ads-commerce/rethink-2026/",
       "read": false,
       "important": false
     },
@@ -1701,16 +1401,6 @@
       "category": "",
       "date": "2026-09-14",
       "url": "https://ads.naver.com/notice/33584?searchValue=&page=1",
-      "read": false,
-      "important": false
-    },
-    {
-      "platform": "GOOGLE",
-      "id": "a81aab8b7024fbad316d",
-      "title": "3 ways to prep for your next big race with Search",
-      "category": "공식 뉴스",
-      "date": "2026-09-11",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "read": false,
       "important": false
     },
@@ -1849,22 +1539,22 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T09:54:50.258723+09:00"
+      "checked_at": "2026-11-20T10:18:38.444350+09:00"
     },
     "GOOGLE": {
       "ok": true,
-      "count": 22,
-      "checked_at": "2026-11-20T09:56:54.943678+09:00"
+      "count": 10,
+      "checked_at": "2026-11-20T10:20:21.033302+09:00"
     },
     "META": {
       "ok": true,
-      "count": 4,
-      "checked_at": "2026-11-20T09:57:05.082366+09:00"
+      "count": 1,
+      "checked_at": "2026-11-20T10:20:23.895503+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T09:57:06.755520+09:00"
+      "checked_at": "2026-11-20T10:20:25.537480+09:00"
     },
     "KAKAO": {
       "mode": "manual",
