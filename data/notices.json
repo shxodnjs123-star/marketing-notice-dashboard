@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 10:20:25 KST",
+  "updated_at": "2026-11-20 10:29:55 KST",
   "notices": [
     {
       "platform": "REPORT",
@@ -1539,22 +1539,22 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T10:18:38.444350+09:00"
+      "checked_at": "2026-11-20T10:25:21.754328+09:00"
     },
     "GOOGLE": {
       "ok": true,
       "count": 10,
-      "checked_at": "2026-11-20T10:20:21.033302+09:00"
+      "checked_at": "2026-11-20T10:29:52.425802+09:00"
     },
     "META": {
       "ok": true,
       "count": 1,
-      "checked_at": "2026-11-20T10:20:23.895503+09:00"
+      "checked_at": "2026-11-20T10:29:53.594357+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-20T10:20:25.537480+09:00"
+      "checked_at": "2026-11-20T10:29:55.157032+09:00"
     },
     "KAKAO": {
       "mode": "manual",
