@@ -106,6 +106,8 @@ def dated_page(platform, url, pattern):
         if platform=="META" and not relevant({"title":title}): continue
         seen.add(link)
         try:
+            import time
+            time.sleep(.5)
             page=requests.get(link,headers=HEADERS,timeout=15)
             page.raise_for_status()
             article=BeautifulSoup(page.text,"html.parser")
@@ -184,7 +186,7 @@ def google():
 
 def meta():
     return collect_sources("META",[
-        ("한국어",lambda:paged_collect(lambda u:dated_page("META",u,r"/ko/news/20\d{2}/\d{2}/.+"),["https://about.fb.com/ko/news/"]+[f"https://about.fb.com/ko/news/page/{i}/" for i in range(2,21)]),True)])
+        ("한국어",lambda:paged_collect(lambda u:dated_page("META",u,r"/ko/news/20\d{2}/\d{2}/.+"),["https://about.fb.com/ko/news/"]+[f"https://about.fb.com/ko/news/page/{i}/" for i in range(2,3)]),True)])
 
 
 PUBLISHERS = {"플레이디":"플레이디","메조미디어":"메조미디어","인크로스":"인크로스","DMC미디어":"DMC미디어","DMC":"DMC미디어","모비데이즈":"모비데이즈","나스미디어":"KT나스미디어","Meta":"Meta","구글":"Google","아이보스":"아이보스","아이지에이웍스":"아이지에이웍스","케이티나스미디어":"KT나스미디어"}
@@ -229,7 +231,7 @@ def reports():
     items=collect_sources("REPORT",[
         ("메조미디어",lambda:report_list("https://cjmezzomedia.com/insight-m","mezzo"),False),
         ("광고정보센터",lambda:report_list("https://www.adic.or.kr/lit/report/list.do","adic"),False),
-        ("아이보스",lambda:paged_collect(lambda u:report_list(u,"iboss"),["https://www.i-boss.co.kr/ab-3207"]+[f"https://www.i-boss.co.kr/ab-3207?design_file=3207.php&page={i}&search_value=" for i in range(2,51)]),False)])
+        ("아이보스",lambda:paged_collect(lambda u:report_list(u,"iboss"),["https://www.i-boss.co.kr/ab-3207"]+[f"https://www.i-boss.co.kr/ab-3207?design_file=3207.php&page={i}&search_value=" for i in range(2,4)]),False)])
     seen=set(); out=[]
     for n in items:
         title=re.sub(r"^\[[^\]]+\]\s*","",n["title"])
@@ -252,6 +254,11 @@ def update():
             status[platform]={"ok":False,"count":0,"error":str(e)[:300],"checked_at":datetime.now(KST).isoformat()}
         print(platform,status[platform])
     status["KAKAO"]={"mode":"manual","count":0,"reason":"Login required"}
+    for platform, state in status.items():
+        prev=data.get("source_status",{}).get(platform,{})
+        last=prev.get("last_success") or (prev.get("checked_at") if prev.get("ok") else None)
+        if state.get("ok"): state["last_success"]=state["checked_at"]
+        elif last: state["last_success"]=last
     data["source_status"]=status
     for n in fresh:
         if n["id"] in old:
