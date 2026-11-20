@@ -103,6 +103,7 @@ def dated_page(platform, url, pattern):
         if urlsplit(link).hostname != urlsplit(response.url).hostname: continue
         title=" ".join(a.stripped_strings)
         if len(title)<8 or link in seen: continue
+        if platform=="META" and not relevant({"title":title}): continue
         seen.add(link)
         try:
             page=requests.get(link,headers=HEADERS,timeout=15)
@@ -110,6 +111,7 @@ def dated_page(platform, url, pattern):
             article=BeautifulSoup(page.text,"html.parser")
             h=article.select_one("main h1, article h1, h1")
             if h: title=" ".join(h.stripped_strings)
+            if not re.search(r"[가-힣]",title): continue
             tag=article.select_one('meta[property="article:published_time"], time[datetime], meta[itemprop="datePublished"]')
             raw=(tag.get("content") or tag.get("datetime") or "") if tag else ""
             m=re.search(r"(20\d{2})[-/](\d{1,2})[-/](\d{1,2})",raw)
@@ -133,18 +135,59 @@ def collect_sources(platform, sources):
         except Exception as e: print(platform,name,str(e)[:200])
     return out
 
+
+def google_archive():
+    url="https://support.google.com/google-ads/announcements/9048695?hl=ko"
+    response=requests.get(url,headers=HEADERS,timeout=30)
+    response.raise_for_status()
+    soup=BeautifulSoup(response.text,"html.parser")
+    out=[]
+    for h in soup.select("h2"):
+        title=" ".join(h.stripped_strings)
+        pattern=r"(20\d{2})년\s*(\d{1,2})월\s*(\d{1,2})일"
+        date=None
+        for node in h.next_elements:
+            if getattr(node,"name",None) in ("h1","h2"): break
+            if getattr(node,"name",None)=="h3":
+                m=re.search(pattern,node.get_text(" ",strip=True))
+                if m:
+                    try: date=datetime(*map(int,m.groups())).date().isoformat()
+                    except ValueError: pass
+                break
+        if not title or not date or not re.search(r"[가-힣]",title): continue
+        # Stable archive anchor: use actual heading id if available, otherwise list URL.
+        link=url+("#"+h["id"] if h.get("id") else "")
+        out.append({"platform":"GOOGLE","id":uid("GOOGLE",link,title),"title":title,"category":"한국어 공식 공지","date":date,"url":link,"read":False,"important":False})
+    return out
+
+def paged_collect(fn, urls):
+    import time
+    out=[]; seen=set()
+    for url in urls:
+        try:
+            items=fn(url)
+            new=[n for n in items if n["id"] not in seen]
+            seen.update(n["id"] for n in new)
+            out.extend(new)
+            print("archive page",url,len(new))
+        except Exception as e:
+            print("archive page error",url,str(e)[:150])
+        time.sleep(.5)
+    return out
+
 def google():
     return collect_sources("GOOGLE",[
+        ("한국어 공지 아카이브",google_archive,False),
         ("한국어 공지",lambda:dated_page("GOOGLE","https://support.google.com/google-ads/announcements/9048695?hl=ko",r"/google-ads/answer/\d+"),False),
         ("한국어 제품",lambda:dated_page("GOOGLE","https://business.google.com/kr/accelerate/announcements/",r"/kr/accelerate/(?:announcements|resources)/.+"),False),
         ("정책",lambda:dated_page("GOOGLE","https://support.google.com/adspolicy/announcements/9048695?hl=ko",r"/adspolicy/answer/\d+"),False)])
 
 def meta():
     return collect_sources("META",[
-        ("한국어",lambda:dated_page("META","https://about.fb.com/ko/news/",r"/ko/news/20\d{2}/\d{2}/.+"),True)])
+        ("한국어",lambda:paged_collect(lambda u:dated_page("META",u,r"/ko/news/20\d{2}/\d{2}/.+"),["https://about.fb.com/ko/news/"]+[f"https://about.fb.com/ko/news/page/{i}/" for i in range(2,21)]),True)])
 
 
-PUBLISHERS = {"플레이디":"플레이디","메조미디어":"메조미디어","인크로스":"인크로스","DMC미디어":"DMC미디어","DMC":"DMC미디어","모비데이즈":"모비데이즈","나스미디어":"KT나스미디어","Meta":"Meta","구글":"Google"}
+PUBLISHERS = {"플레이디":"플레이디","메조미디어":"메조미디어","인크로스":"인크로스","DMC미디어":"DMC미디어","DMC":"DMC미디어","모비데이즈":"모비데이즈","나스미디어":"KT나스미디어","Meta":"Meta","구글":"Google","아이보스":"아이보스","아이지에이웍스":"아이지에이웍스","케이티나스미디어":"KT나스미디어"}
 def report_list(url, kind):
     from urllib.parse import urljoin, urlsplit
     response=requests.get(url,headers=HEADERS,timeout=30)
@@ -186,7 +229,7 @@ def reports():
     items=collect_sources("REPORT",[
         ("메조미디어",lambda:report_list("https://cjmezzomedia.com/insight-m","mezzo"),False),
         ("광고정보센터",lambda:report_list("https://www.adic.or.kr/lit/report/list.do","adic"),False),
-        ("아이보스",lambda:report_list("https://www.i-boss.co.kr/ab-3207","iboss"),False)])
+        ("아이보스",lambda:paged_collect(lambda u:report_list(u,"iboss"),["https://www.i-boss.co.kr/ab-3207"]+[f"https://www.i-boss.co.kr/ab-3207?design_file=3207.php&page={i}&search_value=" for i in range(2,51)]),False)])
     seen=set(); out=[]
     for n in items:
         title=re.sub(r"^\[[^\]]+\]\s*","",n["title"])
