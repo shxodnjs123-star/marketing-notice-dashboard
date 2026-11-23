@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 22:20:11 KST",
+  "updated_at": "2026-11-23 15:42:29 KST",
   "notices": [
     {
       "platform": "REPORT",
@@ -163,6 +163,16 @@
       "category": "",
       "date": "2026-11-16",
       "url": "https://ads.naver.com/notice/35519?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "15b98bfdd0a50d127e63",
+      "title": "네이버 스퀘어 역삼·부산·광주와 종로 스튜디오 운영 종료 및 이후 이용 안내 공통 2026-11-16",
+      "category": "",
+      "date": "2026-11-16",
+      "url": "https://ads.naver.com/notice/35454?searchValue=&page=1",
       "read": false,
       "important": false
     },
@@ -5543,26 +5553,26 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-22T22:12:43.737300+09:00",
-      "last_success": "2026-11-22T22:12:43.737300+09:00"
+      "checked_at": "2026-11-23T15:34:36.243048+09:00",
+      "last_success": "2026-11-23T15:34:36.243048+09:00"
     },
     "GOOGLE": {
       "ok": true,
       "count": 386,
-      "checked_at": "2026-11-22T22:20:04.779082+09:00",
-      "last_success": "2026-11-22T22:20:04.779082+09:00"
+      "checked_at": "2026-11-23T15:42:20.242898+09:00",
+      "last_success": "2026-11-23T15:42:20.242898+09:00"
     },
     "META": {
       "ok": true,
       "count": 1,
-      "checked_at": "2026-11-22T22:20:08.309127+09:00",
-      "last_success": "2026-11-22T22:20:08.309127+09:00"
+      "checked_at": "2026-11-23T15:42:24.928288+09:00",
+      "last_success": "2026-11-23T15:42:24.928288+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 15,
-      "checked_at": "2026-11-22T22:20:11.612270+09:00",
-      "last_success": "2026-11-22T22:20:11.612270+09:00"
+      "checked_at": "2026-11-23T15:42:29.029709+09:00",
+      "last_success": "2026-11-23T15:42:29.029709+09:00"
     },
     "KAKAO": {
       "mode": "manual",
