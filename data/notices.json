@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-24 18:10:35 KST",
+  "updated_at": "2026-11-25 00:49:14 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "f6b64942b6f1102b8928",
+      "title": "(수정) 파워링크 PC/모바일 파비콘 영역 UI 변경 안내 (통합검색+더보기) new 공통 2026-11-24",
+      "category": "",
+      "date": "2026-11-24",
+      "url": "https://ads.naver.com/notice/35417?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "REPORT",
       "id": "f36c001f298b0652e1a9",
@@ -9,6 +19,17 @@
       "category": "마케팅 리포트",
       "date": "2026-11-24",
       "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/_F_CJMEZZOMEDIA_2027_TREND_REPORT_261123_20261124171413.pdf",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "REPORT",
+      "id": "7f748f01d84e97799ad2",
+      "title": "2027 메조미디어 트렌드 리포트",
+      "publisher": "메조미디어",
+      "category": "마케팅 리포트",
+      "date": "2026-11-24",
+      "url": "https://cdn.cjmezzomedia.com/attach-file/insight-m/01_MezzoMedia_2027_Trend_Report_20261124181834.pdf",
       "read": false,
       "important": false
     },
@@ -5655,26 +5676,26 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-24T18:02:36.004329+09:00",
-      "last_success": "2026-11-24T18:02:36.004329+09:00"
+      "checked_at": "2026-11-25T00:41:24.572571+09:00",
+      "last_success": "2026-11-25T00:41:24.572571+09:00"
     },
     "GOOGLE": {
       "ok": true,
       "count": 386,
-      "checked_at": "2026-11-24T18:10:27.518621+09:00",
-      "last_success": "2026-11-24T18:10:27.518621+09:00"
+      "checked_at": "2026-11-25T00:49:09.579544+09:00",
+      "last_success": "2026-11-25T00:49:09.579544+09:00"
     },
     "META": {
       "ok": true,
       "count": 1,
-      "checked_at": "2026-11-24T18:10:31.895164+09:00",
-      "last_success": "2026-11-24T18:10:31.895164+09:00"
+      "checked_at": "2026-11-25T00:49:11.352974+09:00",
+      "last_success": "2026-11-25T00:49:11.352974+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 15,
-      "checked_at": "2026-11-24T18:10:35.083900+09:00",
-      "last_success": "2026-11-24T18:10:35.083900+09:00"
+      "checked_at": "2026-11-25T00:49:14.740459+09:00",
+      "last_success": "2026-11-25T00:49:14.740459+09:00"
     },
     "KAKAO": {
       "mode": "manual",
