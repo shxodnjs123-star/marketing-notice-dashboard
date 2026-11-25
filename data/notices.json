@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:48:10 KST",
+  "updated_at": "2026-11-26 00:36:25 KST",
   "notices": [
     {
       "platform": "NAVER",
@@ -191,11 +191,31 @@
     },
     {
       "platform": "NAVER",
+      "id": "879758fa38a57b182c30",
+      "title": "(수정2) [파워링크] 확장검색 제외 검색어 ‘단어 포함’ 기능 안내 검색광고 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35577?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
       "id": "79784a9efec2ad7108d5",
       "title": "(수정) [쇼핑검색광고/ADVoost 쇼핑] 예산 설정을 돕는 '예산 시뮬레이터' 출시 안내 new 공통 2026-11-18",
       "category": "",
       "date": "2026-11-18",
       "url": "https://ads.naver.com/notice/35576?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "6947ffffea926de9a5a4",
+      "title": "플레이스검색광고 부동산 업종 네이버페이 부동산 단지 상세·단지핀 광고 노출 형태 변경 안내 검색광고 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35547?searchValue=&page=1",
       "read": false,
       "important": false
     },
@@ -236,6 +256,16 @@
       "category": "",
       "date": "2026-11-18",
       "url": "https://ads.naver.com/notice/35577?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "1af50ed6f89ef1c7ca35",
+      "title": "(수정) [쇼핑검색광고/ADVoost 쇼핑] 예산 설정을 돕는 '예산 시뮬레이터' 출시 안내 공통 2026-11-18",
+      "category": "",
+      "date": "2026-11-18",
+      "url": "https://ads.naver.com/notice/35576?searchValue=&page=1",
       "read": false,
       "important": false
     },
@@ -1322,6 +1352,16 @@
       "platform": "NAVER",
       "id": "cecdcfaa1b0009156148",
       "title": "중요 네이버 디지털옥외광고 10월 광고비 100% 환급 이벤트 new 공통 2026-10-02",
+      "category": "",
+      "date": "2026-10-02",
+      "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "b8f00eba4df620ecfd7d",
+      "title": "중요 (수정4) 네이버 디지털옥외광고 10~12월 광고비 100% 환급 이벤트 디지털옥외광고 2026-10-02",
       "category": "",
       "date": "2026-10-02",
       "url": "https://ads.naver.com/notice/34573?searchValue=&page=1",
@@ -5686,26 +5726,26 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-25T16:40:47.220816+09:00",
-      "last_success": "2026-11-25T16:40:47.220816+09:00"
+      "checked_at": "2026-11-26T00:26:03.025698+09:00",
+      "last_success": "2026-11-26T00:26:03.025698+09:00"
     },
     "GOOGLE": {
       "ok": true,
       "count": 386,
-      "checked_at": "2026-11-25T16:48:03.312540+09:00",
-      "last_success": "2026-11-25T16:48:03.312540+09:00"
+      "checked_at": "2026-11-26T00:36:19.994051+09:00",
+      "last_success": "2026-11-26T00:36:19.994051+09:00"
     },
     "META": {
       "ok": true,
       "count": 1,
-      "checked_at": "2026-11-25T16:48:07.133008+09:00",
-      "last_success": "2026-11-25T16:48:07.133008+09:00"
+      "checked_at": "2026-11-26T00:36:21.768365+09:00",
+      "last_success": "2026-11-26T00:36:21.768365+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-25T16:48:10.569065+09:00",
-      "last_success": "2026-11-25T16:48:10.569065+09:00"
+      "checked_at": "2026-11-26T00:36:25.238725+09:00",
+      "last_success": "2026-11-26T00:36:25.238725+09:00"
     },
     "KAKAO": {
       "mode": "manual",
