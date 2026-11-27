@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-27 00:03:48 KST",
+  "updated_at": "2026-11-27 16:35:30 KST",
   "notices": [
+    {
+      "platform": "NAVER",
+      "id": "37a0ee4ceba092bc0a7b",
+      "title": "2026년 12월 신용카드 무이자 할부 혜택 new 공통 2026-11-27",
+      "category": "",
+      "date": "2026-11-27",
+      "url": "https://ads.naver.com/notice/35744?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
     {
       "platform": "NAVER",
       "id": "84c4fefa42ea8a28132d",
@@ -95,6 +105,16 @@
       "important": false
     },
     {
+      "platform": "NAVER",
+      "id": "e14026d782c07d28feda",
+      "title": "(수정) [안내] 네이버애즈 개인정보 안전성 확보조치 기준 적용 화면 추가 안내 (2026년 11월 26일 적용 예정) 공통 2026-11-20",
+      "category": "",
+      "date": "2026-11-20",
+      "url": "https://ads.naver.com/notice/35505?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
       "platform": "REPORT",
       "id": "9e2a7c47b02e2304af4a",
       "title": "[2026년 11월] MEDIA AD ISSUE",
@@ -119,6 +139,16 @@
       "platform": "NAVER",
       "id": "7d4b1d18cf43c9f1a8cb",
       "title": "(수정) 쇼핑검색광고 신규 지표 '클릭 기대지수' 도입 및 기존 품질지수 종료 안내 new 공통 2026-11-20",
+      "category": "",
+      "date": "2026-11-20",
+      "url": "https://ads.naver.com/notice/34974?searchValue=&page=1",
+      "read": false,
+      "important": false
+    },
+    {
+      "platform": "NAVER",
+      "id": "3d2546a8a9e35fd8aa32",
+      "title": "(수정) 쇼핑검색광고 신규 지표 '클릭 기대지수' 도입 및 기존 품질지수 종료 안내 공통 2026-11-20",
       "category": "",
       "date": "2026-11-20",
       "url": "https://ads.naver.com/notice/34974?searchValue=&page=1",
@@ -5746,26 +5776,26 @@
     "NAVER": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-26T23:56:13.018441+09:00",
-      "last_success": "2026-11-26T23:56:13.018441+09:00"
+      "checked_at": "2026-11-27T16:28:19.497375+09:00",
+      "last_success": "2026-11-27T16:28:19.497375+09:00"
     },
     "GOOGLE": {
       "ok": true,
       "count": 386,
-      "checked_at": "2026-11-27T00:03:42.212087+09:00",
-      "last_success": "2026-11-27T00:03:42.212087+09:00"
+      "checked_at": "2026-11-27T16:35:22.284670+09:00",
+      "last_success": "2026-11-27T16:35:22.284670+09:00"
     },
     "META": {
       "ok": true,
       "count": 1,
-      "checked_at": "2026-11-27T00:03:43.945195+09:00",
-      "last_success": "2026-11-27T00:03:43.945195+09:00"
+      "checked_at": "2026-11-27T16:35:27.105078+09:00",
+      "last_success": "2026-11-27T16:35:27.105078+09:00"
     },
     "REPORT": {
       "ok": true,
       "count": 13,
-      "checked_at": "2026-11-27T00:03:48.734942+09:00",
-      "last_success": "2026-11-27T00:03:48.734942+09:00"
+      "checked_at": "2026-11-27T16:35:30.756646+09:00",
+      "last_success": "2026-11-27T16:35:30.756646+09:00"
     },
     "KAKAO": {
       "mode": "manual",
